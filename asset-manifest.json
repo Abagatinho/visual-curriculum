@@ -1,14 +1,10 @@
 {
   "files": {
-    "main.js": "/visual-curriculum/static/js/main.85c583fe.js",
-    "static/media/abagatinho.svg": "/visual-curriculum/static/media/abagatinho.4acfd167dc7b67988a5cd31fb2241cb1.svg",
-    "static/media/peacock-logo.png": "/visual-curriculum/static/media/peacock-logo.c54a9c9733a2e0fec2f9.png",
-    "static/media/ccm-logo.png": "/visual-curriculum/static/media/ccm-logo.4767dc5aba7906a55ef6.png",
-    "static/media/Logotipo-CIn.svg": "/visual-curriculum/static/media/Logotipo-CIn.1fa614bdac27286e91522a30c6e3f240.svg",
+    "main.js": "/visual-curriculum/static/js/main.8409a1c6.js",
     "index.html": "/visual-curriculum/index.html",
-    "main.85c583fe.js.map": "/visual-curriculum/static/js/main.85c583fe.js.map"
+    "main.8409a1c6.js.map": "/visual-curriculum/static/js/main.8409a1c6.js.map"
   },
   "entrypoints": [
-    "static/js/main.85c583fe.js"
+    "static/js/main.8409a1c6.js"
   ]
 }
