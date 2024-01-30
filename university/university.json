@@ -21,9 +21,24 @@
                 "logo": "/assets/img/cin-logo.svg"
             },
             {
+                "key": "medicina",
+                "name": "Medicina",
+                "logo": "/assets/img/ccm-logo.png"
+            },
+            {
+                "key": "publicidade",
+                "name": "Publicidade e Propaganda",
+                "logo": "/assets/img/cac-logo.png"
+            },
+            {
                 "key": "teatro",
                 "name": "Teatro",
                 "logo": "/assets/img/cac-logo.png"
+            },
+            {
+                "key": "politica",
+                "name": "Ciência Política com ênfase em Relações Internacionais",
+                "logo": "/assets/img/cfch-logo.png"
             },
             {
                 "key": "historiaB",
@@ -59,11 +74,6 @@
                 "key": "direito",
                 "name": "Direito",
                 "logo": "/assets/img/ccj-logo.png"
-            },
-            {
-                "key": "medicina",
-                "name": "Medicina",
-                "logo": "/assets/img/ccm-logo.png"
             }
         ]
     },

@@ -1,0 +1,1867 @@
+{
+  "university": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+  "course": "PUBLICIDADE E PROPAGANDA",
+  "semesters": 9,
+  "totalHours": 2790,
+  "totalHoursElective": 345,
+  "totalHoursObligatory": 2445,
+  "disciplines": [
+    {
+      "name": "FUNDAMENTOS DE SOCIOLOGIA",
+      "code": "CS004",
+      "ementa": "A SOCIOLOGIA E OUTRAS CIÊNCIAS. MODELOS DE ANÁLISE SOCIOLÓGICA. O SOCIAL E A SOCIEDADE. CONCEITOS SOCIOLÓGICOS BÁSICOS.",
+      "hours": 60,
+      "semester": 1,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CS001",
+          "name": "SOCIOLOGIA 1"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": [
+        {
+          "code": "CO208",
+          "name": "SOCIOLOGIA DA COMUNICACAO 1"
+        }
+      ]
+    },
+    {
+      "name": "HISTORIA DAS ARTES",
+      "code": "AR005",
+      "ementa": "ENFOQUE GERAL E ABRANGENTE DAS TRÊS PRINCIPAIS CORRENTES ARTÍSTICAS : ARTES PLÁSTICAS, ARTES CÊNICAS E MÚSICA; MINISTRADA A NÍVEL DE HISTÓRIA DA CULTURA, DA PRÉ-HISTÓRIA AO SÉCULO XX.",
+      "hours": 60,
+      "semester": 1,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "AR004",
+          "name": "HISTORIA DAS ARTES 3"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": [
+        {
+          "code": "CO224",
+          "name": "CRIACAO PUBLICITARIA 1"
+        }
+      ]
+    },
+    {
+      "name": "LINGUA PORTUGUESA 3",
+      "code": "LE005",
+      "ementa": "DOMÍNIO DAS ESTRUTURAS SINTÁTICAS DA LÍNGUA PORTUGUESA, NOS SEUS DIVERSOS ASPECTOS (CONCORDÂNCIA, REGÊNCIA, COLOCAÇÃO) E DO USO DE MODELOS FRASAIS ADEQUADOS À COMUNICAÇÃO.",
+      "hours": 90,
+      "semester": 1,
+      "credits": 6,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "LE003",
+          "name": "LINGUA PORTUGUESA 3"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": [
+        {
+          "code": "LE004",
+          "name": "LINGUA PORTUGUESA 4"
+        }
+      ]
+    },
+    {
+      "name": "METODOLOGIA DO ESTUDO",
+      "code": "BI030",
+      "ementa": "A LEITURA PARA APRENDIZAGEM. O USO CORRETO DAS FONTES. PREPARAÇÃO DE TRABALHOS ESCOLARES.",
+      "hours": 30,
+      "semester": 1,
+      "credits": 2,
+      "isObligatory": true,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": [
+        {
+          "code": "CO324",
+          "name": "METODO DE PESQ EM COMUNICACAO 1"
+        }
+      ]
+    },
+    {
+      "name": "ESPANHOL INSTRUMENTAL",
+      "code": "LE008",
+      "ementa": "O DOMÍNIO DA LÍNGUA COMO INSTRUMENTO DE LEITURA E ESCRITA",
+      "hours": 90,
+      "semester": 1,
+      "credits": 6,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "FRANCES INSTRUMENTAL",
+      "code": "LE017",
+      "ementa": "APLICAÇÃO DA METODOLOGIA DO FRANCÊS INSTRUMENTAL PARA PERMITIR RAPIDAMENTE O ACESSO À LEITURA DE TEXTOS DE RADIALISMO, JORNALISMO E PUBLICITÁRIOS EM LÍNGUA FRANCESA ATRAVÉS DO ESTUDO DAS ESTRUTURAS BÁSICAS DA LÍNGUA E DAS DIVERSAS ESTRATÉGIAS DE LEITURA NECESSÁRIAS À COMPREENSÃO DE TEXTOS ESCRITOS.",
+      "hours": 90,
+      "semester": 1,
+      "credits": 6,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "INGLES INSTRUMENTAL",
+      "code": "LE027",
+      "ementa": "DESENVOLVIMENTO DE TÉCNICAS E ESTRATÉGIAS DE ESTUDO E DE LEITURA DE TEXTOS NA ÁREA DE COMUNICAÇÃO SOCIAL, ESTIMULANDO PROCESSO MENTAL DO ESTUDANTE PARA UMA MAIS EFICIENTE COMUNICAÇÃO E ATUAÇÃO ACADÊMICA.",
+      "hours": 90,
+      "semester": 1,
+      "credits": 6,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "INTROD A PUBLIC E PROPAGANDA",
+      "code": "CO276",
+      "ementa": "CARACTERÍSTICA E FUNÇÕES DOS MC. TEORIAS DE PUBLICIDADE E PROPAGANDA. TÓPICOS HISTÓRICOS DA PUBLICIDADE BRASILEIRA EM IMPRESSO, RÁDIO E TV. ESTRUTURA E FUNCIONAMENTO DOS MEIOS.",
+      "hours": 45,
+      "semester": 2,
+      "credits": 3,
+      "isObligatory": true,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "INTRODUCAO A FILOSOFIA",
+      "code": "FL009",
+      "ementa": "LÓGICA. ANÁLISE DOS GRANDES SISTEMAS DE IDÉIAS COM ÊNFASE NAS PRINCIPAIS CORRENTES DO MUNDO CONTEMPORÂNEO E SUA INFLUÊNCIAS NOS SISTEMAS DE COMUNICAÇÃO.",
+      "hours": 60,
+      "semester": 2,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO201",
+          "name": "FUNDAMENTOS DA COMUNICACAO 1"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "INTRODUCAO A FOTOGRAFIA",
+      "code": "CO280",
+      "ementa": "PRODUÇÃO FOTOGRÁFICA: PRODUTO E LINGUAGEM DA COMUNICAÇÃO CONTEMPORÂNEA. ABORDAGEM HISTÓRICA DA FOTOGRAFIA. TENDÊNCIAS DE PRODUÇÃO FOTOGRÁFICA. TEORIAS DA FOTOGRAFIA. PRINCIPAIS FOTÓGRAFOS DO MUNDO, NAS ÁREAS DE DOCUMENTAÇÃO, PRODUTO, RETRATOS, PAISAGEM, FOTOPUBLICIDADE, FOTOJORNALISMO, E FOTOGRAFIA DE ARTE.",
+      "hours": 60,
+      "semester": 2,
+      "credits": 3,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO420",
+          "name": "EXPRESSAO PLASTICA 4"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": [
+        {
+          "code": "CO243",
+          "name": "FOTOPUBLICITARIA"
+        }
+      ]
+    },
+    {
+      "name": "LINGUA PORTUGUESA 4",
+      "code": "LE004",
+      "ementa": "DOMÍNIO DAS ESTRUTURAS SINTÁTICAS DA LÍNGUA PORTUGUESA, NOS SEUS DIVERSOS ASPECTOS (CONCORDÂNCIA, REGÊNCIA, COLOCAÇÃO) E DO USO DE MODELOS FRASAIS ADEQUADOS À COMUNICAÇÃO.",
+      "hours": 60,
+      "semester": 2,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [],
+      "prerequisites": [
+        {
+          "code": "LE005",
+          "name": "LINGUA PORTUGUESA 3"
+        }
+      ],
+      "dependents": [
+        {
+          "code": "CO240",
+          "name": "REDACAO P/ MEIOS DE COMUNICACAO"
+        }
+      ]
+    },
+    {
+      "name": "SOCIOLOGIA DA COMUNICACAO 1",
+      "code": "CO208",
+      "ementa": "ELEMENTOS PARA ANÁLISE CIENTÍFICA DA SOCIEDADE: GÊNESE DA COMUNICAÇÃO NO MODO DE PRODUÇÃO CAPITALISTA.. SOCIOLOGIA DA COMUNICAÇÃO: ESTUDO DAS TRANSFORMAÇÕES SOCIAIS ATRAVÉS DOS MEIOS DE COMUNICAÇÃO DE MASSA.",
+      "hours": 60,
+      "semester": 2,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO206",
+          "name": "SOCIOLOGIA DA COMUNICACAO"
+        },
+        {
+          "code": "CO207",
+          "name": "SOCIOLOGIA DA COMUNICACAO 1"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CS004",
+          "name": "FUNDAMENTOS DE SOCIOLOGIA"
+        }
+      ],
+      "dependents": []
+    },
+    {
+      "name": "TEORIA DA COMUNICACAO",
+      "code": "CO300",
+      "ementa": "O OBJETO DA COMUNICAÇÃO SOCIAL. CONTRIBUIÇÕES INTERDISCIPLINARES PARA A CONSTRUÇÃO DE UMA TEORIA DA COMUNICAÇÃO. TRANSFORMAÇÕES HISTÓRICAS, PROCESSOS DE COMUNICAÇÃO E SEUS INTERRELACIONAMENTOS.",
+      "hours": 60,
+      "semester": 2,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO200",
+          "name": "COMUNICACAO"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "ETICA E LEGISLACAO PUBLICITARIA",
+      "code": "CO214",
+      "ementa": "APRECIAÇÃO DA MENSAGENS DE PUBLICIDADE E PROPAGANDA, ANTE SEUS REFLEXOS POSITIVOS OU NEGATIVOS EM RELAÇÃO A PESSOAS, GRUPOS SOCIAIS E AO PÚBLICO EM GERAL. ESTUDO DA LEGISLAÇÃO VIGENTE E APLICÁVEL EM MATÉRIA DE PUBLICIDADE E PROPAGANDA.",
+      "hours": 45,
+      "semester": 3,
+      "credits": 3,
+      "isObligatory": true,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": [
+        {
+          "code": "CO447",
+          "name": "PROJETOS EXPERIMENTAIS 3"
+        }
+      ]
+    },
+    {
+      "name": "METODO DE PESQ EM COMUNICACAO 1",
+      "code": "CO324",
+      "ementa": "OS MÉTODOS DO TRABALHO CIENTÍFICO. MÉTODOS E TÉCNICAS DE PESQUISA EM COMUNICAÇÃO. PRESSUPOSTOS TEÓRICOS E CONTRIBUIÇÕES INTERDISCIPLINARES PARA A PESQUISA EM COMUNICAÇÃO. O PROJETO DE PESQUISA.",
+      "hours": 45,
+      "semester": 3,
+      "credits": 3,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO210",
+          "name": "PESQUISA DE OPINIAO"
+        },
+        {
+          "code": "CO301",
+          "name": "METODO DE PESQ EM COMUNICACAO 1"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "BI030",
+          "name": "METODOLOGIA DO ESTUDO"
+        }
+      ],
+      "dependents": [
+        {
+          "code": "CO325",
+          "name": "METODO DE PESQ EM COMUNICACAO 2A"
+        }
+      ]
+    },
+    {
+      "name": "PSICOLOGIA DA COMUNICACAO",
+      "code": "CO220",
+      "ementa": "ELEMENTOS E CONCEITOS DE PSICOLOGIA. TEORIAS PSICOLÓGICAS APLICADAS AO CAMPO DA COMUNICAÇÃO",
+      "hours": 60,
+      "semester": 3,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO202",
+          "name": "FUNDAMENTOS DA COMUNICACAO 2"
+        },
+        {
+          "code": "PS486",
+          "name": "FUNDAMENTOS DA COMUNICACAO 2"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": [
+        {
+          "code": "CO228",
+          "name": "PSICOLOGIA PUBLICITARIA 1"
+        }
+      ]
+    },
+    {
+      "name": "REAL SOC ECON POLIT CULT BRASIL",
+      "code": "CS429",
+      "ementa": "FORMAÇÃO DA SOCIEDADE BRASILEIRA. O PROCESSO DE DESENVOLVIMENTO ECONÔMICO E DA ESTRUTURA POLÍTICA NA FORMAÇÃO E ENCAMINHAMENTO DO ESTADO NACIONAL. O PAPEL DA MÍDIA NA CULTURA BRASILEIRA. PANORAMA CULTURAL E POLÍTICO ATUAL.",
+      "hours": 60,
+      "semester": 3,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO261",
+          "name": "PROBLEMAS SOCIAIS E ECONOMICOS"
+        },
+        {
+          "code": "CO273",
+          "name": "REAL SOCIO-POLIT BRASILEIRA"
+        },
+        {
+          "code": "CS430",
+          "name": "REAL SOCIO-POLIT BRASILEIRA"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "REDACAO P/ MEIOS DE COMUNICACAO",
+      "code": "CO240",
+      "ementa": "REDAÇÃO PARA OS MEIOS DE COMUNICAÇÃO. CONVERGÊNCIAS E DIVERGÊNCIAS. O CONTEÚDO E A FORMA.. TIPOS DE DISCURSO E GÊNEROS DE LINGUAGEM. OS ELEMENTOS DO TEXTO. INTEGRAÇÃO TEXTO, SOM E IMAGEM. PLANEJAMENTO DA REDAÇÃO PARA OS MEIOS DE COMUNICAÇÃO.",
+      "hours": 60,
+      "semester": 3,
+      "credits": 3,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO233",
+          "name": "REDACAO E EDICAO 1"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "LE004",
+          "name": "LINGUA PORTUGUESA 4"
+        }
+      ],
+      "dependents": [
+        {
+          "code": "CO442",
+          "name": "REDACAO PUBLICITARIA 1"
+        }
+      ]
+    },
+    {
+      "name": "CRIACAO PUBLICITARIA 1",
+      "code": "CO224",
+      "ementa": "CARACTERÍSTICAS E FUNÇÕES DOS MEIOS DE COMUNICAÇÃO. TEORIAS DE PUBLICIDADE E PROPAGANDA. TÓPICOS HISTÓRICOS DA PUBLICIDADE BRASILEIRA EM IMPRESSO, RÁDIO E TV. ESTRUTURA E FUNCIONAMENTO DOS MEIOS.",
+      "hours": 60,
+      "semester": 4,
+      "credits": 3,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO211",
+          "name": "PUBLICIDADE E PROPAGANDA 1"
+        },
+        {
+          "code": "CO216",
+          "name": "CRIACAO PUBLICITARIA 1"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "AR005",
+          "name": "HISTORIA DAS ARTES"
+        }
+      ],
+      "dependents": [
+        {
+          "code": "CO225",
+          "name": "CRIACAO PUBLICITARIA 2"
+        }
+      ]
+    },
+    {
+      "name": "MERCADOLOGIA",
+      "code": "CO232",
+      "ementa": "INTRODUÇÃO AO ESTUDO DO MARKETING. O COMPOSTO DE MARKETING. CONJUNTO DE LEVANTAMENTO DE DADOS. ESTUDO E MEDIDAS QUE POSSAM DETERMINAR A ESTRATÉGIA DE LANÇAMENTO, SUSTENTAÇÃO E RELANÇAMENTO DE NOVOS PRODUTOS NO MERCADO VISANDO SEU ÊXITO DE VENDAS.",
+      "hours": 60,
+      "semester": 4,
+      "credits": 3,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO311",
+          "name": "MERCADOLOGIA 1"
+        },
+        {
+          "code": "CO312",
+          "name": "MERCADOLOGIA 2"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "METODO DE PESQ EM COMUNICACAO 2A",
+      "code": "CO325",
+      "ementa": "EXECUÇÃO DE PESQUISA. LEITURA E INTERPRETAÇÃO DOS DADOS. FORMAS DE COMUNICAÇÃO DA PESQUISA.",
+      "hours": 60,
+      "semester": 4,
+      "credits": 2,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO210",
+          "name": "PESQUISA DE OPINIAO"
+        },
+        {
+          "code": "CO302",
+          "name": "METODO DE PESQ EM COMUNICACAO 2"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CO324",
+          "name": "METODO DE PESQ EM COMUNICACAO 1"
+        }
+      ],
+      "dependents": [
+        {
+          "code": "CO447",
+          "name": "PROJETOS EXPERIMENTAIS 3"
+        }
+      ]
+    },
+    {
+      "name": "PLANEJAMENTO EM COMUNICACAO",
+      "code": "CO307",
+      "ementa": "TEORIAS DO PLANEJAMENTO. MÉTODOS, TÉCNICAS E ESTRATÉGIAS DE PLANEJAMENTO APLICADAS À COMUNICAÇÃO.",
+      "hours": 45,
+      "semester": 4,
+      "credits": 3,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO305",
+          "name": "PLANEJAMENTO EM COMUNICACAO"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "PRODUCAO GRAFICA 1A",
+      "code": "CO236",
+      "ementa": "TIPOGRAFIA. MEDIDAS GRÁFICAS. TÉCNICAS DE COMPOSIÇÃO E DE IMPRESSÃO. A FOTOGRAFIA NA PRODUÇÃO GRÁFICA",
+      "hours": 45,
+      "semester": 4,
+      "credits": 2,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO218",
+          "name": "PRODUCAO GRAFICA 1"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": [
+        {
+          "code": "CO237",
+          "name": "PRODUCAO GRAFICA 2"
+        }
+      ]
+    },
+    {
+      "name": "REDACAO PUBLICITARIA 1",
+      "code": "CO442",
+      "ementa": "ANÁLISE DAS CARACTERÍSTICAS DAS DIFERENTES PEÇAS PUBLICITÁRIAS PARA O MEIO IMPRESSO. RELAÇÃO CRIATIVIDADE X ADEQUAÇÃO. CRIAÇÃO DE TÍTULO, SUBTÍTULO, TEXTO E SLOGAN PARA MEIOS IMPRESSOS E MÍDIA EXTERIOR.",
+      "hours": 60,
+      "semester": 4,
+      "credits": 3,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO436",
+          "name": "REDACAO PUBLICITARIA 1"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CO240",
+          "name": "REDACAO P/ MEIOS DE COMUNICACAO"
+        }
+      ],
+      "dependents": [
+        {
+          "code": "CO443",
+          "name": "REDACAO PUBLICITARIA 2"
+        }
+      ]
+    },
+    {
+      "name": "CRIACAO PUBLICITARIA 2",
+      "code": "CO225",
+      "ementa": "O ANÚNCIO PUBLICITÁRIO. ESSÊNCIA DA COMPOSIÇÃO ARTÍSTICA.",
+      "hours": 60,
+      "semester": 5,
+      "credits": 3,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO217",
+          "name": "CRIACAO PUBLICITARIA 2"
+        },
+        {
+          "code": "CO412",
+          "name": "PUBLICIDADE E PROPAGANDA 2"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CO224",
+          "name": "CRIACAO PUBLICITARIA 1"
+        }
+      ],
+      "dependents": []
+    },
+    {
+      "name": "FOTOPUBLICITARIA",
+      "code": "CO243",
+      "ementa": "PRODUÇÃO CONCEITUAL DE PEÇAS FOTOGRÁFICAS PARA USO PUBLICITÁRIO, COM APRESENTAÇÃO E REALIZAÇÃO DAS PRINCIPAIS TÉCNICAS DE ESTÚDIO. A ESPECIFICIDADE DA FOTOGRAFIA PUBLICITÁRIA. A FOTOPUBLICIDADE E O MERCADO, A REVOLUÇÃO DO DIGITAL. NOÇÕES DE COMPOSIÇÃO, LAY-OUT PLANEJAMENTO E EXECUÇÃO DE PEÇAS PUBLICITÁRIAS.",
+      "hours": 60,
+      "semester": 5,
+      "credits": 3,
+      "isObligatory": true,
+      "equivalences": [],
+      "prerequisites": [
+        {
+          "code": "CO280",
+          "name": "INTRODUCAO A FOTOGRAFIA"
+        }
+      ],
+      "dependents": []
+    },
+    {
+      "name": "PRODUCAO GRAFICA 2",
+      "code": "CO237",
+      "ementa": "ESTÉTICA APLICADA AO MATERIAL GRÁFICO. PRODUÇÃO DE MATERIAL GRÁFICO PARA PUBLICIDADE E PROPAGANDA.",
+      "hours": 60,
+      "semester": 5,
+      "credits": 3,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO219",
+          "name": "PRODUCAO GRAFICA 2"
+        },
+        {
+          "code": "CO421",
+          "name": "EXPRESSAO PLASTICA 5"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CO236",
+          "name": "PRODUCAO GRAFICA 1A"
+        }
+      ],
+      "dependents": []
+    },
+    {
+      "name": "REDACAO PUBLICITARIA 2",
+      "code": "CO443",
+      "ementa": "ANÁLISE DAS CARACTERÍSTICAS DAS DIFERENTES PEÇAS PUBLICITÁRIAS PARA O MEIO IMPRESSO. RELAÇÃO CRIATIVA X ADEQUAÇÃO. PRODUÇÃO DE TEXTOS PARA MALA DIRETA, ENCARTES, BROADSIDE OUTDOOR, MATERIAL DE PONTO DE VENDA; WEB E MÍDIA ALTERNATIVA.",
+      "hours": 60,
+      "semester": 5,
+      "credits": 3,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO437",
+          "name": "REDACAO PUBLICITARIA 2"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CO442",
+          "name": "REDACAO PUBLICITARIA 1"
+        }
+      ],
+      "dependents": [
+        {
+          "code": "CO444",
+          "name": "REDACAO PUBLICITARIA 3"
+        }
+      ]
+    },
+    {
+      "name": "COMUNICACAO COMPARADA",
+      "code": "CO306",
+      "ementa": "O CONTEXTO DA COMUNICAÇÃO NO MEIO SOCIAL, AS CONDIÇÕES DE PRODUÇÃO, CIRCULAÇÃO E CONSUMO DAS MENSAGENS. O CONDICIONAMENTO DA INFORMAÇÃO ÀS POLÍTICAS QUE DETERMINAM AS DIVERSAS FORMAS DE CONTROLE DA INFORMAÇÃO.",
+      "hours": 45,
+      "semester": 6,
+      "credits": 3,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO303",
+          "name": "COMUNICACAO COMPARADA"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "PLANEJAMENTO DE CAMPANHA 1A",
+      "code": "CO241",
+      "ementa": "TÉCNICAS DE PLANEJAMENTO. POSICIONAMENTO DO PRODUTO EM RELAÇÃO AO MERCADO.",
+      "hours": 60,
+      "semester": 6,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO316",
+          "name": "PLANEJAMENTO DE CAMPANHA 1"
+        },
+        {
+          "code": "CO416",
+          "name": "PROMOCAO DE VENDAS"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": [
+        {
+          "code": "CO242",
+          "name": "PLANEJAMENTO DE CAMPANHA 2"
+        }
+      ]
+    },
+    {
+      "name": "PRODUCAO PUBLICITARIA EM RADIO 1",
+      "code": "CO279",
+      "ementa": "REDAÇÃO E EDIÇÃO DE MARGENS DE PUBLICIDADE E PROPAGANDA PARA O MEIO RADIOFÔNICO",
+      "hours": 60,
+      "semester": 6,
+      "credits": 3,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO313",
+          "name": "PRODUCAO PUBLICITARIA EM RADIO"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "REDACAO PUBLICITARIA 3",
+      "code": "CO444",
+      "ementa": "PRODUÇÃO DE TEXTOS PUBLICITÁRIOS: PEÇAS PARA O MEIO RADIOFÔNICO",
+      "hours": 60,
+      "semester": 6,
+      "credits": 3,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO438",
+          "name": "REDACAO PUBLICITARIA 3"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CO443",
+          "name": "REDACAO PUBLICITARIA 2"
+        }
+      ],
+      "dependents": [
+        {
+          "code": "CO445",
+          "name": "REDACAO PUBLICITARIA 4"
+        }
+      ]
+    },
+    {
+      "name": "ADM EM PUBLICIDADE E PROPAGANDA",
+      "code": "CO245",
+      "ementa": "TEORIAS CLÁSSICAS E MODERNAS DE ADMINISTRAÇÃO. FUNÇÕES TÉCNICAS E ADMINISTRATIVAS DE AGÊNCIA E SETORES DE PUBLICIDADE E PROPAGANDA. SISTEMAS E MÉTODOS. ADMINISTRAÇÃO ORÇAMENTÁRIA.",
+      "hours": 60,
+      "semester": 7,
+      "credits": 3,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO310",
+          "name": "ADMINISTRACAO EM PUBLICIDADE"
+        },
+        {
+          "code": "CO415",
+          "name": "PUBLICIDADE E PROPAGANDA 5"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "MIDIA",
+      "code": "CO244",
+      "ementa": "CONCEITO DE MÍDIA. MÍDIA LOCAL E GLOBAL. DISTRIBUIÇÃO DE VERBAS PUBLICITÁRIAS. INSERÇÕES. ANÁLISE DA AUDIÊNCIA, ANÁLISE DOS MEIOS, LEVANTAMENTO, TABULAÇÃO E ANÁLISE DE DADOS. O PLANO DE MÍDIA.",
+      "hours": 45,
+      "semester": 7,
+      "credits": 2,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO213",
+          "name": "MIDIA"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "PLANEJAMENTO DE CAMPANHA 2",
+      "code": "CO242",
+      "ementa": "ELABORAÇÃO DE PLANOS EM PUBLICIDADE E PROPAGANDA",
+      "hours": 60,
+      "semester": 7,
+      "credits": 3,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO317",
+          "name": "PLANEJAMENTO DE CAMPANHA 2"
+        },
+        {
+          "code": "CO413",
+          "name": "PUBLICIDADE E PROPAGANDA 3"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CO241",
+          "name": "PLANEJAMENTO DE CAMPANHA 1A"
+        }
+      ],
+      "dependents": []
+    },
+    {
+      "name": "PRODUCAO PUBLICITARIA EM TVC",
+      "code": "CO278",
+      "ementa": "REDAÇÃO E EDIÇÃO DE MARGENS DE PUBLICIDADE E PROPAGANDA PARA A MÍDIA ELETRÔNICA.",
+      "hours": 60,
+      "semester": 7,
+      "credits": 3,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO314",
+          "name": "PRODUCAO PUBLICITARIA EM TV"
+        },
+        {
+          "code": "CO315",
+          "name": "PRODUCAO PUBLICITARIA EM CINEMA"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "REDACAO PUBLICITARIA 4",
+      "code": "CO445",
+      "ementa": "REDAÇÃO PUBLICITÁRIA PARA TELEVISÃO E CINEMA. ELEMENTOS DA NARRATIVA, FORMATAÇÃO E ESCRITA DE ROTEIROS. ESTRUTURA DO ANÚNCIO TELEVISIVO. PRODUÇÃO DE VTS PARA POSTAGEM EM BLOGS NA WEB.",
+      "hours": 60,
+      "semester": 7,
+      "credits": 3,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO439",
+          "name": "REDACAO PUBLICITARIA 4"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CO444",
+          "name": "REDACAO PUBLICITARIA 3"
+        }
+      ],
+      "dependents": [
+        {
+          "code": "CO447",
+          "name": "PROJETOS EXPERIMENTAIS 3"
+        }
+      ]
+    },
+    {
+      "name": "ESTATIST P/ PUBLIC E PROPAGANDA",
+      "code": "ET401",
+      "ementa": "SISTEMA E PROCESSOS DE OBTENÇÃO, ORGANIZAÇÃO E ANÁLISE DE DADOS SOBRE PRODUTOS, MERCADOS E VEICULAÇÃO DE PUBLICIDADE E PROPAGANDA.",
+      "hours": 45,
+      "semester": 8,
+      "credits": 3,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO212",
+          "name": "ESTATISTICA PARA PUBLICIDADE"
+        },
+        {
+          "code": "ET400",
+          "name": "ESTATISTICA PARA PUBLICIDADE"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "PSICOLOGIA PUBLICITARIA 1",
+      "code": "CO228",
+      "ementa": "PRINCIPAIS TEORIAS PSICOLÓGICAS APLICADAS Á PUBLICIDADE. AS TÉCNICAS DE PERSUASÃO, FORMAÇÃO DA OPINIÃO PÚBLICA E SUAS IMPLICAÇÕES NA TRANSFORMAÇÃO DE ATITUDES E COMPORTAMENTOS. A PSICOLOGIA DAS CORES E FORMAS.",
+      "hours": 60,
+      "semester": 8,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO417",
+          "name": "PSICOLOGIA PUBLICITARIA"
+        },
+        {
+          "code": "CO418",
+          "name": "PSICOLOGIA PUBLICITARIA 1"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CO220",
+          "name": "PSICOLOGIA DA COMUNICACAO"
+        }
+      ],
+      "dependents": []
+    },
+    {
+      "name": "TECNICAS DE PROJETOS",
+      "code": "CO309",
+      "ementa": "ANÁLISE E FORMATAÇÃO DE PRÉ-PROJETOS PARA A ADEQUAÇÃO DOS PROJETOS EXPERIMENTAIS. CONSOLIDAÇÃO DA ATIVIDADE DE PESQUISA E/OU AÇÃO RELACIONADA À HABILITAÇÃO DOS ALUNOS.",
+      "hours": 45,
+      "semester": 8,
+      "credits": 3,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO603",
+          "name": "TECNICAS DE PROJETOS"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": [
+        {
+          "code": "CO447",
+          "name": "PROJETOS EXPERIMENTAIS 3"
+        }
+      ]
+    },
+    {
+      "name": "PROJETOS EXPERIMENTAIS 3",
+      "code": "CO447",
+      "ementa": "",
+      "hours": 270,
+      "semester": 9,
+      "credits": 9,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CO319",
+          "name": "PROJETOS EXPERIMENTAIS 3"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CO214",
+          "name": "ETICA E LEGISLACAO PUBLICITARIA"
+        },
+        {
+          "code": "CO309",
+          "name": "TECNICAS DE PROJETOS"
+        },
+        {
+          "code": "CO325",
+          "name": "METODO DE PESQ EM COMUNICACAO 2A"
+        },
+        {
+          "code": "CO445",
+          "name": "REDACAO PUBLICITARIA 4"
+        }
+      ],
+      "dependents": []
+    },
+    {
+      "name": "ANTROPOLOGIA 1",
+      "code": "CS007",
+      "ementa": "CONCEITO DE ANTROPOLOGIA. NOÇÕES BÁSICAS DO ESTUDO ANTROPOLÓGICO. ANTROPOLOGIA FÍSICA, CULTURAL E SOCIAL. PALEONTOLOGIA HUMANA. ARQUEOLOGIA: AS IDADES CULTURAIS PRÉ-HISTÓRICAS. O HOMEM, A PRODUÇÃO E A REPRODUÇÃO DA CULTURA. LINGÜÍSTICA. O TRABALHO DE CAMPO E O MÉTODO ETNOGRÁFICO. A INVESTIGAÇÃO ETNOLÓGICA E O MÉTODO COMPARATIVO. O LUGAR DA ANTROPOLOGIA NAS CIÊNCIAS SOCIAIS.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [
+        {
+          "code": "CS224",
+          "name": "ANTROPOLOGIA CULTURAL 1"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "CIENCIA POLITICA",
+      "code": "CS011",
+      "ementa": "ESTADO. PODER E FORMA DE GOVERNO. SISTEMAS ELEITORAIS E A ESCOLHA DOS GOVERNANTES. OPINIÃO PÚBLICA E PROPAGANDA. DIVISÃO DOS PODERES. PARLAMENTARISMO. ESTUDO DE ALGUNS CASOS CONTEMPORÂNEOS. REGIMES POLÍTICOS E DESENVOLVIMENTO.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [
+        {
+          "code": "CS416",
+          "name": "INTRODUCAO A TEORIA POLITICA"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "CINEMA - CULTURA E IDENTIDADE",
+      "code": "CO657",
+      "ementa": "TENDÊNCIAS DO CINEMA CONTEMPORÂNEO TENDO COMO BASE OS TEÓRICOS DOS ESTUDOS CULTURAIS. OS FILMES QUE RETRATAM AS MARGENS, AS DIÁSPORAS, O MULTICULTURALISMO.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "CINEMA BRASILEIRO",
+      "code": "CO502",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [
+        {
+          "code": "CO229",
+          "name": "CINEMA E TEATRO"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "CINEMA DE ANIMACAO",
+      "code": "CO604",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 2,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "CINEMAS AFRICANOS E CONTEMPORÂNEOS",
+      "code": "CO664",
+      "ementa": "O PROBLEMA DO CINEMA DO TERCEIRO MUNDO(TERCEIRO CINEMA, CINEMA PERIFÉRICO). BREVE HISTÓRIA DO CINEMA AFRICANO (RECORTE PRIORITÁRIO: ÁFRICA NEGRA, OU SUBSAARIANA). ÁFRICA COMO ESPAÇO DO IMAGINÁRIO COLONIAL VERSUS COMO LOCI DE ENUNCIAÇÃO. A EMERGÊNCIA DE UM LUGAR EPISTEMOLÓGICO PÓS-COLONIAL. DESAFIOS ÀS EXPRESSIVIDADES - ARTÍSTICAS, FILOSÓFICAS, COMERCIAIS - A PARTIR DAS NAÇÕES AFRICANAS.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "COMUNIC E TECNOL EDUCACIONAL 1",
+      "code": "CO510",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [
+        {
+          "code": "CO308",
+          "name": "COMUN E TECN EDUCACIONAL"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "COMUNICACAO COMUNITARIA",
+      "code": "CO402",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "COMUNICACAO EMPRESARIAL",
+      "code": "CO500",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "COMUNICACAO RURAL",
+      "code": "CO406",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "CORPO - DESEJO E COMUNICAÇÃO",
+      "code": "CO654",
+      "ementa": "O PODER CORPO. O DISPOSITIVO DE SEXUALIDADE. CORPO E SUBJETIVIDADE. CARTOGRAFIAS DO DESEJO.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "CRIATIVIDADE",
+      "code": "CO503",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 2,
+      "isObligatory": false,
+      "equivalences": [
+        {
+          "code": "CO221",
+          "name": "EXPRESSAO PLASTICA 1"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "CULTURA BRASILEIRA 1",
+      "code": "CO511",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [
+        {
+          "code": "CO267",
+          "name": "CULTURA BRASILEIRA"
+        },
+        {
+          "code": "CO271",
+          "name": "CULTURA BRASILEIRA 1"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "CULTURA NORDESTINA",
+      "code": "CO509",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "DESENHO PUBLICITARIO",
+      "code": "EG266",
+      "ementa": "DESENVOLVER NO ALUNO A CAPACIDADE DE EXPRESSÃO GRÁFICA ATRAVÉS DO CONHECIMENTO DOS ELEMENTOS DA LINGUAGEM VISUAL.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "DICCAO E LOCUCAO",
+      "code": "CO508",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 2,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "DINAMICA GRUPAL E COMUNITARIA",
+      "code": "CO602",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "DIREÇÃO CRIATIVA",
+      "code": "CO655",
+      "ementa": "A CONSTRUÇÃO DA IDENTIDADE ARTÍSTICA DO FILME DE FICÇÃO EM SEUS VÁRIOS ESTÁGIOS DE REALIZAÇÃO. PRINCIPAIS ASPECTOS TÉCNICOS E ESTÉTICOS QUE ENVOLVEM A PRODUÇÃO DE UM CURTA - METRAGEM DE FICÇÃO.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "DISCURSOS DE CONSUMO NA INTERNET",
+      "code": "CO750",
+      "ementa": "AS RAÍZES E AS CARACTERÍSTICAS DA CULTURA DE CONSUMO, O PAPEL QUE OS MEIOS DE COMUNICAÇÃO ASSUMEM NA MANUTENÇÃO DA IDEOLOGIA CAPITALISTA E AS MUDANÇAS NO FLUXO COMUNICACIONAL TRAZIDA PELOS MEIOS PÓS-MASSIVOS. AS ESTRATÉGIAS PUBLICITÁRIAS E OS DIÁLOGOS AMBIENTADOS NA INTERNET, PRINCIPALMENTE NAS MÍDIAS SOCIAIS, COM BASE NOS POSTULADOS DA ANÁLISE DE DISCURSO.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "ECONOMIA 1",
+      "code": "EC001",
+      "ementa": "ORIGEM E EVOLUÇÃO DAS CIÊNCIAS ECONÔMICAS: INTRODUÇÃO ÀS CIÊNCIAS ECONÔMICAS, ÀS DOUTRINAS ECONÔMICAS. INTRODUÇÃO A TEORIA ECONÔMICA: TEORIA DO VALOR-TRABALHO, MACROECONOMIA E MICROECONOMIA.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "ECONOMIA POLÍTICA PARA JORNALISMO",
+      "code": "CO658",
+      "ementa": "UM ESTUDO INTRODUTÓRIO DA ECONÔMIA POLÍTICA BRASILEIRA SE DISTINGUIDO OS FUNDAMENTOS DAS TEORIAS CLÁSSICAS DO VALOR, DA RENDA E DO EMPREGO E AS DIVERSAS VISÕES SOBRE OS ASPECTOS BÁSICOS QUE REGEM O DESENVOLVIMENTO DO EXCEDENTE ECONÔMICO.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "EMBALAGEM DO PRODUTO",
+      "code": "EG267",
+      "ementa": "INTRODUÇÃO AO PLANEJAMENTO DE EMBALAGENS. CONHECIMENTO DO PROCESSO DE EMBALAR. IMPORTÂNCIA DA EMBALAGEM COMO ELEMENTO DE COMUNICAÇÃO DO PRODUTO.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "ESTATISTICA 2 - DESCRITIVA",
+      "code": "ET201",
+      "ementa": "APRESENTAÇÃO TABULAR E GRÁFICA. MEDIDAS DE TENDÊNCIA CENTRAL DE DISPERSÃO DE ASSIMETRIA.TEORIA E PROBABILIDADES ASSOCIADAS À CURVA NORMAL.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [
+        {
+          "code": "ET219",
+          "name": "ESTATISTICA 2 (DESCRITIVA)"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "ESTETICA E CULTURA DE MASSA",
+      "code": "CO409",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "FILMOGRAFIA",
+      "code": "CO501",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [
+        {
+          "code": "CO223",
+          "name": "EXPRESSAO PLASTICA 3"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "GEOGRAFIA ECONOMICA 2",
+      "code": "CG252",
+      "ementa": "A EXPANSÃO GEOGRÁFICA DO SÉCULO XVI. ORGANIZAÇÃO SOCIAL, ECONÔMICA E POLÍTICA DA COLÔNIA. O SISTEMA COLONIAL. O IMPÉRIO. O CRESCIMENTO ECONÔMICO E ORGANIZACIONAL DOS SISTEMAS. OS CICLOS ECONÔMICOS. A REPÚBLICA. A ECONOMIA CAFEEIRA.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "GESTÃO DE PROJETOS CULTURAIS",
+      "code": "CO734",
+      "ementa": "PLANEJAMENTO E GESTÃO DE PROJETOS CULTURAIS. CRIAÇÃO, DESENVOLVIMENTO, FINANCIAMENTO, EXECUÇÃO, PROMOÇÃO E AVALIAÇÃO DE RESULTADOS. ECONOMIA CRIATIVA.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "GRAFICA COMPUTACIONAL",
+      "code": "EG265",
+      "ementa": "ATT. ESTA DISCIPLINA NUNCA FOI OFERECIDA AO CURSO DE COMUNICAÇÃO E NÃO CONSTA EM DESENHO NENHUMA DISCIPLINA COM ESTE CÓDIGO. EXISTEM NO DEPARTAMENTO DE DESENHO DUAS DISCIPLINAS DE GRÁFICA COMPUTACIONAL MAS OS CÓDIGOS SÃO DIFERENTES: DE 014 # GRÁFICA COMPUTACIONAL A # PRÉ-REQUISITO: IF 286 - PROGRAMAÇÃO 1 DE 015 # GRÁFICA COMPUTACIONAL B # PRÉ-REQUISITO: DE 014- GRÁFICA COMPUTACIONAL A",
+      "hours": 60,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "HISTORIA DA COMUNICACAO",
+      "code": "CO400",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "HISTORIA DA CULTURA 2",
+      "code": "HI279",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [
+        {
+          "code": "CO272",
+          "name": "HISTORIA DA CULTURA 2"
+        },
+        {
+          "code": "HI260",
+          "name": "HISTORIA DA CULTURA"
+        },
+        {
+          "code": "HI278",
+          "name": "HISTORIA DA CULTURA 1"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "HISTORIA DE PERNAMBUCO",
+      "code": "HI249",
+      "ementa": "",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [
+        {
+          "code": "HI248",
+          "name": "HISTORIA DE PERNAMBUCO 1"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "HISTORIA EM QUADRINHOS COMUNICAC",
+      "code": "CO404",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "HISTORIA SOCIAL",
+      "code": "HI276",
+      "ementa": "ESTA DISCIPLINA PRETENDE INTRODUZIR O ESTUDANTE NOS PRINCIPAIS CONCEITOS DA NOVA HISTÓRIA CULTURAL.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "IMPRENSA ALTERNATIVA",
+      "code": "CO504",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "INTRODUCAO A COMPUTACAO",
+      "code": "CO235",
+      "ementa": "LINGUAGEM, SISTEMAS E PROGRAMAS. ESTRUTURA DE UM MICROCOMPUTADOR. ARQUIVOS E DIRETÓRIOS. UTILIZAÇÃO DO DOS. PROGRAMAS USUAIS PARA OS MC. O PROCESSADOR DE TEXTOS.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [
+        {
+          "code": "AD787",
+          "name": "TECNOLOGIA DA INFORMAÇÃO"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "INTRODUCAO A TV",
+      "code": "CO253",
+      "ementa": "GÊNEROS E FORMATOS DE TELEVISÃO. PROCEDIMENTOS E LINGUAGEM DO TELEJORNALISMO. CARACTERÍSTICAS, ESPECIFICIDADES E POTENCIALIDADES. FASES DA PRODUÇÃO EM TV. PRODUÇÃO TELEJORNALÍSTICA : PRODUÇÃO, GRAVAÇÃO E EDIÇÃO.",
+      "hours": 75,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [
+        {
+          "code": "CO451",
+          "name": "TELEVISAO 1"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "INTRODUÇÃO A LIBRAS",
+      "code": "LE716",
+      "ementa": "REFLEXÃO SOBRE OS ASPECTOS HISTÓRICOS DA INCLUSÃO DAS PESSOAS SURDAS NA SOCIEDADE EM GERAL E NA ESCOLA; A LIBRAS COMO LÍNGUA DE COMUNICAÇÃO SOCIAL EM CONTEXTO DE COMUNICAÇÃO ENTRE PESSOAS SURDAS E COMO SEGUNDA LÍNGUA. ESTRUTURA LINGUÍSTICA E GRAMATICAL DE LIBRAS. ESPECIFICIDADES DA ESCRITA DO ALUNO SURDO. NA PRODUÇÃO DE TEXTO EM LÍNGUA PORTUGUESA. O INTÉRPRETE E A INTERPRETAÇÃO COMO FATOR DE INCLUSÃO E ACESSO EDUCACIONAL PARA OS ALUNOS SURDOS OU COM BAIXA AUDIÇÃO.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "JOGOS COMO DISPOSITIVOS MIDIÁTICOS",
+      "code": "CO768",
+      "ementa": "A GRANDE OCORRÊNCIA DE INSERÇÕES PUBLICITÁRIAS EM ESPAÇOS LÚDICOS, EM ESPECIAL EM JOGOS EM AMBIENTES VIRTUAIS, DESPERTA PARA ADEQUADA COMPREENSÃO DO POTENCIAL MIDIÁTICO DOS GAMES ENQUANTO SUBSTRATO MIDIÁTICO. NESSE SENTIDO, FAZ-SE RELEVANTE ENTENDER TAIS MANIFESTAÇÕES SOB O PONTO DE VISTA DA MENSAGEM MARCÁRIA, ESPECIALMENTE NO QUE TANGE A SEU POTENCIAL ENQUANTO MEIO. PARA TANTO, A DISCIPLINA PRETENDE DEBATER TEMAS DE INSERÇÃO ENTRE A INDÚSTRIA DA PUBLICIDADE E DOS JOGOS DIGITAIS. TAIS QUESTÕES DEVERÃO SER ABORDADAS A PARTIR DO REFERENCIAL TEÓRICO PERTINENTE ÀS INVESTIGAÇÕES SOBRE A PUBLICIDADE E À MÍDIA ASSOCIADA AOS GAME STUDIES, DISCIPLINA DIRECIONADA AO ESTUDO DOS JOGOS.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "JORNALISMO CORDIAL - A PRODUÇÃO DAS NOTÍCIAS DE DENTRO DAS REDAÇÕES",
+      "code": "CO656",
+      "ementa": "O PROCESSO DA PRODUÇÃO DA NOTÍCIA. APURAÇÃO. PRODUÇÃO TEXTUAL. TÉCNICAS CONTEMPORÂNEAS.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "JORNALISMO EM PEQUENOS MEIOS",
+      "code": "CO516",
+      "ementa": "CONCEITUAÇÃO E DIFERENCIAÇÃO. FORMATOS E POSSIBILIDADES. O EXERCÍCIO DO JORNALISMO DETERMINADO PELAS CONDIÇÕES DE PRODUÇÃO E RECEPÇÃO. O JORNALISTA COMO MEDIADOR. REPRESENTAÇÕES E IDENTIDADES SOCIAIS.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 2,
+      "isObligatory": false,
+      "equivalences": [
+        {
+          "code": "CO283",
+          "name": "LEGISLACAO E ETICA DO JORNALISMO"
+        },
+        {
+          "code": "CO398",
+          "name": "PRODUCAO DE JORNAL POPULAR"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "LINGUISTICA 1",
+      "code": "LE351",
+      "ementa": "INTRODUÇÃO AOS ESTUDOS DA LINGUAGEM NUMA VISÃO AMPLA E AO MESMO TEMPO DIRIGIDA À FALA.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "LITERATURA BRASILEIRA 1A",
+      "code": "LE601",
+      "ementa": "A VISÃO HISTÓRICO-ESTILÍSTICA DA LITERATURA BRASILEIRA.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [
+        {
+          "code": "LE306",
+          "name": "LITERATURA BRASILEIRA 1"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "LOGICA 1",
+      "code": "FL256",
+      "ementa": "A LÓGICA CLÁSSICA. O ARGUMENTO. AS PROPOSIÇÕES QUE COMPÕEM OS ARGUMENTOS. ARGUMENTOS DEDUTIVOS: CATEGÓRICOS, HIPOTÉTICOS, INCOMPLETOS E COMPOSTOS. VALIDADE DOS ARGUMENTOS CATEGÓRICOS E OS DIAGRAMAS DE VENN. ARGUMENTO INDUTIVO E A PROBABILIDADE INDUTIVGA. A ENUMERAÇÃO, ANALOGIA E GENERALIZAÇÃO ESTATÍSTICA. AS FALÁCIAS FORMAIS E INFORMAIS. A LÓGICA COMO INSTRUMENTO DE DESCOBERTA DA",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [
+        {
+          "code": "FL002",
+          "name": "FILOSOFIA 2"
+        },
+        {
+          "code": "FL249",
+          "name": "LOGICA CLASSICA"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "MARKETING DIGITAL",
+      "code": "CO766",
+      "ementa": "IMPACTOS DOS NOVOS CONTEXTOS INFORMACIONAIS SOBRE A TRADIÇÃO DO PENSAMENTO GERENCIAL DE MARKETING. MUDANÇAS NOS CONTEXTOS MERCADOLÓGICOS E EM SUA ANÁLISE. INFLUÊNCIAS DAS NOVAS TECNOLOGIAS DA INFORMAÇÃO NA COMUNICAÇÃO E SUAS CONSEQUÊNCIAS COMERCIAIS.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "MARKETING ESPORTIVO",
+      "code": "CO769",
+      "ementa": "O ESPORTE É RESULTADO DA APROPRIAÇÃO DE ELEMENTOS LÚDICOS E DE MANIFESTAÇÕES CULTURAIS QUE ACOMPANHAM O HOMEM DESDE OS TEMPOS IMEMORIAIS. HOJE, ALÉM DAS CARACTERÍSTICAS QUE JÁ O DEFINE, OS ESPORTES SÃO UM PRODUTO DA GLOBALIZAÇÃO. TODAS AS VERTENTES DO CAMPO ESPORTIVO GANHARAM UMA DIMENSÃO QUE MARCA DE FORMA INDISCUTÍVEL A NOSSA SOCIEDADE. A PROPOSTA DA DISCIPLINA É, ATRAVÉS DE UMA REFLEXÃO TEÓRICO-PRÁTICA, COMPREENDER O FENÔMENO ESPORTIVO ENQUANTO PRÁTICA SOCIOCULTURAL QUE ESTÁ LIGADA À DINÂMICA ECONÔMICA E MIDIÁTICA, CONSTITUINDO UM MERCADO PECULIAR, COM CARACTERÍSTICAS E PARTICULARIDADES PRÓPRIAS.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "MARKETING POLITICO",
+      "code": "CO514",
+      "ementa": "O CANDIDATO E O MARKETING-MIX; PLANEJAMENTO DE UMA CAMPANHA ELEITORAL. ESTRATÉGIAS E PERFORMANCE. A ÉTICA PROFISSIONAL X MARKETING POLÍTICO.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 2,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "MARKETING PROMOCIONAL",
+      "code": "CO659",
+      "ementa": "CONCEITOS E TÉCNICAS APLICADOS AO MARKETING PROMOCIONAL. PLANEJAMENTO DE ATIVIDADES PROMOCIONAIS.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "MEDIAÇÃO NAS REDES SOCIAIS",
+      "code": "CO733",
+      "ementa": "A DISCIPLINA PRETENDE ABORDAR DE QUE FORMA AS DINÂMICAS DAS REDES SOCIAIS DIGITAIS PROPORCIONAM O SURGIMENTO DE MEDIADORES DE FLUXO DE INFORMAÇÃO CAPAZES DE INFLUENCIAR AS OPINIÕES E DECISÕES DE OUTROS USUÁRIOS. SERÁ DISCUTIDO QUEM É ESSE USUÁRIO INFLUENCIADOR; COMO ELE ATUA E COMO ESSA REALIDADE VEM SENDO LEVADA EM CONSIDERAÇÃO NA COMPOSIÇÃO DE ESTRATÉGIAS DE COMUNICAÇÃO INTEGRADA DE MARKETING.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 2,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "MÍDIA E INFÂNCIA",
+      "code": "CO745",
+      "ementa": "ESTA DISCIPLINA TEM POR OBJETIVO PRINCIPAL PROPOR UMA DISCUSSÃO A RESPEITO DO LUGAR OCUPADO PELA CRIANÇA DENTRO DA SOCIEDADE DE CONSUMO, ESPECIALMENTE NO QUE TANGE A SUA RELAÇÃO COM A MÍDIA. PARA TANTO SERÃO ABORDADOS ASPECTOS CONCERNENTES AOS HÁBITOS DE CONSUMO CULTURA DA INFÂNCIA CONTEMPORÂNEA.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "MÚSICA - IDENTIDADE E CULTURA MIDIÁTICA",
+      "code": "CO653",
+      "ementa": "A IDENTIDADE CULTURAL: POSICIONAMENTO, TRANSITORIEDADE, FORMAÇÃO E DEFORMAÇÃO. A MÚSICA - COMO SUPORTE PARA AS NARRATIVAS DIASPÓRICAS. O PAPEL DAS MÍDIAS NO ÂMBITO DAS REPRESENTAÇÕES, MANIFESTAÇÕES CULTURAIS. POSSIBILIDADES E RISCOS DOS DISCURSOS IDENTITÁRIOS NA CONSTRUÇÃO DA SUBJETIVIDADE CULTURAL E NA REDEFINIÇÃO DE CIDADANIA.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "OFICINA DE TEXTOS",
+      "code": "CO515",
+      "ementa": "EXPERIMENTAÇÃO DE LINGUAGENS E FORMATOS PARA OS MEIOS IMPRESSO, RADIOFÔNICO E TELEVISIVO.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 2,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "OPORTUNIDADES DE MERCADOS E NICHOS DE NEGÓCIOS",
+      "code": "CO716",
+      "ementa": "ARQUITETAR E ORGANIZAR PROJETOS DE COMUNICAÇÃO MULTIDISCIPLINAR COM ÊNFASE NA PUBLICIDADE, DE MODO QUE OS ACADÊMICOS EXERCITEM EXPERIMENTOS DE FUNDAMENTAÇÃO PRÁTICA BUSCANDO ATENDER EXIGÊNCIAS CONTEMPORÂNEAS DE MERCADO. A DISCIPLINA DEVE PROMOVER A INTERDISCIPLINARIDADE HORIZONTAL E VERTICAL DAS DISCIPLINAS OFERECIDAS NO CURSO.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 1,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "PERNAMBUCO NO CONTEXTO DAS INDÚSTRIAS CULTURAIS",
+      "code": "CO651",
+      "ementa": "INDÚSTRIA CULTURAL E INDÚSTRIAS CULTLURAIS. GRUPO DE MÍDIAS EM PERNAMBUCO. \"CORONELISMO ELETRÔNICO\". CORONELISMO HISTÓRICO. POLÍTICOS RADIODIFUSORES/POLÍTICOS.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "PERSPECTIVAS DA MUSICA BRASILEIRA",
+      "code": "CO600",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "PLANEJAMENTO DO ATENDIMENTO PUBLICITÁRIO",
+      "code": "CO723",
+      "ementa": "ABORDAGEM DE ASPECTOS RELATIVOS ÀS ATIVIDADES DOS PROFISSIONAIS DE ATENDIMENTO E DE PLANEJAMENTO ENVOLVIDOS COM O GERENCIAMENTO E RESOLUÇÃO DE ASSUNTOS DE COMUNICAÇÃO. COM ÊNFASE EM PUBLICIDADE E PROPAGANDA.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 2,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "POLITICA DA COMUNICACAO",
+      "code": "CO401",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "PROBL DA HIST CONTEPORANEA",
+      "code": "HI237",
+      "ementa": "ESTUDO CRÍTICO DE DETERMINADOS ASPECTOS POLÍTICOS, ECONÔMICOS OU SOCIAIS, IMPORTANTES PARA A ANÁLISE CRÍTICA DA ÉPOCA CONTEMPORÂNEA.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "PRODUCAO AUDIOVISUAL",
+      "code": "CO408",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 2,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "PROPAGANDA INSTITUCIONAL",
+      "code": "CO512",
+      "ementa": "NATUREZA E DA FUNCIONALIDADE DA PROPAGANDA COMO FERRAMENTA DE CONSTRUÇÃO DE IMAGEM INSTITUCIONAL. PRODUÇÃO DE CAMPANHAS.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 2,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "PUBLICIDADE E CINEMA - INTERFACES COMUNICACIONAIS",
+      "code": "CO717",
+      "ementa": "APRESENTAÇÃO E DISCUSSÃO DE REFERÊNCIAIS TEÓRICOS VOLTADOS AO ESTUDO DAS INTER-RELAÇÕES ENTRE MEIOS DE COMUNICAÇÃO E AS FORMAS ARTÍSTICAS DE EXPRESSÃO, COM ÊNFASE AO PROCESSO CRIATIVO, LANÇANDO DETIDO OLHAR À INTERFACE EXISTENTE EM PEÇAS PUBLICITÁRIAS TELEVISUAIS, CUJA FONTE INSPIRADORA RECAI SOBRE O CINEMA. A EXPLANAÇÃO CONCEITUAL SEGUE O PRINCÍPIO DO EMBASAMENTO TEÓRICO DAS TRÊS ÁREAS A SEREM ABORDADAS AO LONGO DA DISCIPLINA: A INTERFACE, O CINEMA E A PUBLICIDADE. A PROXIMIDADE E A CADA VEZ MAIS PRESENTE INTER-RELAÇÃO LINGUÍSTICA DO CINEMA E DA PUBLICIDADE TELEVISUAL INSTIGAM À BUSCA INCESSANTE POR NOVOS EXEMPLOS, ANÁLISES E DISCUSSÕES.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "RADIO NO BRASIL",
+      "code": "CO506",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "RELACOES PUBLICAS 5",
+      "code": "CO405",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [
+        {
+          "code": "CO262",
+          "name": "RELACOES PUBLICAS"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "RESPONSABILIDADE SOCIAMBIENTAL NA PUBLICIDADE",
+      "code": "CO715",
+      "ementa": "DEFINIR O QUE É E COMO FUNCIONA O TERCEIRO SETOR E AS SUAS INSTITUIÇÕES. QUAL O SEU OBJETIVO E COMO DEVE SER ESTRUTURADA A SUA COMUNICAÇÃO. A IMPORTÂNCIA DA ÉTICA NA PUBLICIDADE COMERCIAL E NÃO COMERCIAL, COMPREENDENDO A RESPOPNSABILIDADE SOCIAMBIENTAL. O PLANEJAMENTO E A EXECUÇÃO E AALIAÇÃO DA PUBLICIDADE SOCIOAMBIENTAL.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 1,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "SEMINARIO DE COMUNICACAO",
+      "code": "CO407",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "SEMIOLOGIA DA PUBLICIDADE",
+      "code": "CO513",
+      "ementa": "SEMIOLOGIA & SEMIÓTICA: DELINEAMENTOS E CONTRIBUIÇÕES PARA O ESTUDO DOS SIGNOS PUBLICITÁRIOS. CONCEITOS BÁSICOS E APLICAÇÕES. OS MECANISMOS DE CONSTRUÇÃO E SENTIDO NA PUBLICIDADE. AS FIGURAS DE RETÓRICA NA IMAGEM PUBLICITÁRIA. PUBLICIDADE: SEMIOSES E INTERSEMIOSES.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [
+        {
+          "code": "CO354",
+          "name": "SEMIOLOGIA DA IMAGEM E DO SOM"
+        },
+        {
+          "code": "CO507",
+          "name": "SEMIOLOGIA"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "TEATRO BRASILEIRO",
+      "code": "CO601",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "TELEVISAO NO BRASIL",
+      "code": "CO505",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "TEORIA DA LITERATURA 1",
+      "code": "LE251",
+      "ementa": "TTEORIA DA LITERATURA: CONCEITOS FUNDAMENTAIS. CRÍTICA LITERÁRIA: INTRODUÇÃO À ABORDAGEM LITERÁRIA. PRINCIPAIS CORRENTES LITERÁRIAS E SEUS RESPECTIVOS PRESSUPOSTOS TEÓRICO-METODOLÓGICOS.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "TEORIA GERAL DE SISTEMAS",
+      "code": "CO403",
+      "ementa": "",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "TÓPICOS EM JORNALISMO DIGITAL",
+      "code": "CO652",
+      "ementa": "A DIGITALIZAÇÃO DE INFORMAÇÕES E A INTERCONEXÃO EM REDES. NOVAS FORMAS DE NARRAR O MUNDO E A PRÁTICA JORNALÍSTICA. A NÃO LINEARIDADE NA ESCRITA E NA LEITURA E A NARRATIVA CLÁSSICA. O TEXTO MULTIMODAL. PROCESSOS DE CONVERGÊNCIA DIGITAL E A RECONFIGURAÇÃO DAS MÍDIAS.",
+      "hours": 45,
+      "semester": 0,
+      "credits": 3,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    }
+  ]
+}

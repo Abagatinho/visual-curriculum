@@ -1,0 +1,1098 @@
+{
+  "university": "UNIVERSIDADE FEDERAL DE PERNAMBUCO",
+  "course": "CIÊNCIA POLÍTICA",
+  "semesters": 8,
+  "totalHours": 2520,
+  "totalHoursElective": 360,
+  "totalHoursObligatory": 2160,
+  "disciplines": [
+    {
+      "name": "ECONOMIA 1",
+      "code": "EC001",
+      "ementa": "ORIGEM E EVOLUÇÃO DAS CIÊNCIAS ECONÔMICAS: INTRODUÇÃO ÀS CIÊNCIAS ECONÔMICAS, ÀS DOUTRINAS ECONÔMICAS. INTRODUÇÃO A TEORIA ECONÔMICA: TEORIA DO VALOR-TRABALHO, MACROECONOMIA E MICROECONOMIA.",
+      "hours": 60,
+      "semester": 1,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": [
+        {
+          "code": "EC213",
+          "name": "MICROECONOMIA 1"
+        },
+        {
+          "code": "EC231",
+          "name": "MACROECONOMIA 1"
+        }
+      ]
+    },
+    {
+      "name": "EPISTEMOLOGIA DAS CIÊNCIAS SOCIAIS",
+      "code": "CP006",
+      "ementa": "CONCEITO E FINALIDADE DA CIÊNCIA. A FILOSOFIA E SUA RELAÇÃO COM A PRÁXIS CIENTÍFICA. A CIÊNCIA E A PROBLEMÁTICA DA COMPREENSÃO DA REALIDADE: PROBLEMAS GNOSIOLÓGICOS, METODOLÓGICOS E AXIOLÓGICOS. A INTERDISCIPLINARIDADE DO SABER. O SIGNIFICADO IDEOLÓGICO DO TRABALHO CIENTÍFICO. A CIÊNCIA COMO PROCESSO HISTÓRICO-SOCIAL. A QUESTÃO DO MÉTODO CIENTÍFICO. OS EIXOS EPISTEMOLÓGICOS DAS CIÊNCIAS HUMANAS E SOCIAIS.",
+      "hours": 60,
+      "semester": 1,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0002",
+          "name": "EPISTEMOLOGIA DAS CIÊNCIAS SOCIAS"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": [
+        {
+          "code": "CP028",
+          "name": "PROCESSOS DE INTEGRAÇÃO REGIONAL"
+        }
+      ]
+    },
+    {
+      "name": "FUNDAMENTOS DE SOCIOLOGIA",
+      "code": "CS004",
+      "ementa": "A SOCIOLOGIA E OUTRAS CIÊNCIAS. MODELOS DE ANÁLISE SOCIOLÓGICA. O SOCIAL E A SOCIEDADE. CONCEITOS SOCIOLÓGICOS BÁSICOS.",
+      "hours": 60,
+      "semester": 1,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "HISTÓRIA DAS IDÉIAS POLÍTICAS",
+      "code": "CP007",
+      "ementa": "O ESTUDO DA HISTÓRIA SOCIAL E POLÍTICA: DIMENSÕES E PROBLEMAS. PROCESSOS FORMADORES DO MUNDO CONTEMPORÂNEO: AS DIMENSÕES DO PROCESSO CAPITALISTA. CLASSES SOCIAIS E CONFORMAÇÕES DO PROCESSO POLÍTICO: O ESTUDO DO ESTADO E DOS PROCESSOS REVOLUCIONÁRIOS. IMPERIALISMO, COLONIZAÇÃO E GUERRA. ÁSIA, ÁFRICA E AMÉRICA LATINA: PRESENÇA CAPITALISTA E MUDANÇAS SOCIAIS E POLÍTICAS. O PROCESSO SOCIALISTA: REVOLUÇÕES DO SÉCULO XX.",
+      "hours": 60,
+      "semester": 1,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0003",
+          "name": "HISTÓRIA DAS IDÉIAS POLÍTICAS"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "INTRODUCAO A FILOSOFIA 1",
+      "code": "FL010",
+      "ementa": "VÁRIAS CONCEITUAÇÕES DA FILOSOFIA: DAS ORIGENS HISTÓRICAS ÀS HODIERNAS CONCEPÇÕES DO SABER E FAZER FILOSÓFICO. O PROBLEMA LÓGICO E METODOLÓGICO. O PROBLEMA ANTROPOLÓGICO. TÓPICOS ESPECÍFICOS DE FILOSOFIA.",
+      "hours": 60,
+      "semester": 1,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "INTRODUÇÃO À CIÊNCIA POLÍTICA",
+      "code": "CP008",
+      "ementa": "ORIGEM, OBJETO E MÉTODOS DA CIÊNCIA POLÍTICA. O PODER POLÍTICO. O ESTADO MODERNO. FORMAS DE GOVERNO. SISTEMAS ELEITORAIS E ESCOLHA DOS SEUS GOVERNANTES.",
+      "hours": 60,
+      "semester": 1,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0001",
+          "name": "INTRODUÇÃO À CIÊNCIA POLÍTICA"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": [
+        {
+          "code": "CP012",
+          "name": "TEORIA DEMOCRÁTICA I"
+        },
+        {
+          "code": "CP013",
+          "name": "TEORIA POLÍTICA CLÁSSICA"
+        },
+        {
+          "code": "CP014",
+          "name": "INSTITUIÇÕES POLÍTICAS I"
+        },
+        {
+          "code": "CP023",
+          "name": "PARTIDOS POLÍTICOS E ELEIÇÕES"
+        },
+        {
+          "code": "CP026",
+          "name": "COMPORTAMENTO POLÍTICO"
+        }
+      ]
+    },
+    {
+      "name": "DIREITO CONSTITUCIONAL",
+      "code": "PG514",
+      "ementa": "",
+      "hours": 60,
+      "semester": 2,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": [
+        {
+          "code": "PE463",
+          "name": "DIREITO INTERNACIONAL PÚBLICO 1"
+        }
+      ]
+    },
+    {
+      "name": "HISTÓRIA DO PENSAMENTO POLÍTICO BRASILEIRO I",
+      "code": "CP009",
+      "ementa": "RELAÇÃO ENTRE A PRODUÇÃO INTELECTUAL BRASILEIRA E A AÇÃO DO ESTADO, AS INTERPRETAÇÕES SOBRE O BRASIL E SOBRE SEUS PROBLEMAS E A CONSTRUÇÃO DE POLÍTICAS PÚBLICAS.",
+      "hours": 60,
+      "semester": 2,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0007",
+          "name": "HISTÓRIA DO PENSAMENTO POLÍTICO BRASILEIRO I"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "INTRODUÇÃO ÀS RELAÇÕES INTERNACIONAIS",
+      "code": "CP010",
+      "ementa": "O CURSO DE INTRODUÇÃO AS RELAÇÕES INTERNACIONAIS TEM POR OBJETIVO INICIAR O ALUNO NO DEBATE TEÓRICO DA ÁREA BEM COMO ESTABELECER CONTATO COM OS PRINCIPAIS TEMAS CONTEMPORÂNEOS DAS RELAÇÕES INTERNACIONAIS.",
+      "hours": 60,
+      "semester": 2,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0017",
+          "name": "INTRODUÇÃO ÀS RELAÇÕES INTERNACIONAIS"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "MÉTODOS QUANTITATIVOS I",
+      "code": "CP011",
+      "ementa": "ANÁLISES E APLICAÇÕES DOS PRINCIPAIS MÉTODOS DE PESQUISAS QUANTITATIVAS. COMPORTAMENTO ELEITORAL, PARTICIPAÇÃO POLÍTICA E SISTEMAS PARTIDÁRIOS E ELEITORAIS, POLÍTICA COMPARADA. UTILIZAÇÃO DE INFORMAÇÕES SECUNDÁRIAS COMO FONTE RÁPIDA E EFICIENTE DE COLETA DE DADOS A PARTIR DE BASES INSTITUCIONAIS: IBGE/CENSO, IBGE/PNAD, IPEADATA, DATASUS, INEP, TRE.",
+      "hours": 90,
+      "semester": 2,
+      "credits": 5,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0005",
+          "name": "METÓDOS QUANTITATIVOS I"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": [
+        {
+          "code": "CP015",
+          "name": "MÉTODOS QUANTITATIVOS II"
+        }
+      ]
+    },
+    {
+      "name": "TEORIA DEMOCRÁTICA I",
+      "code": "CP012",
+      "ementa": "DISCUTIR A IDÉIA DE DEMOCRACIA, ATRAVÉS DA EXPOSIÇÃO DE SUAS MAIS RELEVANTES FORMAS DE MANIFESTAÇÃO TEÓRICAS, DESDE OS GREGOS ATÉ OS NOSSOS DIAS.",
+      "hours": 60,
+      "semester": 2,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0006",
+          "name": "TEORIA DEMOCRÁTICA I"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CP008",
+          "name": "INTRODUÇÃO À CIÊNCIA POLÍTICA"
+        }
+      ],
+      "dependents": [
+        {
+          "code": "CP029",
+          "name": "TEORIA DEMOCRÁTICA II"
+        }
+      ]
+    },
+    {
+      "name": "TEORIA POLÍTICA CLÁSSICA",
+      "code": "CP013",
+      "ementa": "A POLÍTICA COMO CATEGORIA AUTÔNOMA; ESTADO E SOCIEDADE NO PENSAMENTO DE MAQUIAVEL; HOBBES E O ESTADO ABSOLUTO; O PENSAMENTO LIBERAL; PROPRIEDADE PRIVADA EM LOCKE; MONTESQUIEU # O ILUMINISMO; ROUSSEAU E A DEMOCRACIA DIRETA.",
+      "hours": 60,
+      "semester": 2,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0004",
+          "name": "TEORIA POLÍTICA CLÁSSICA"
+        },
+        {
+          "code": "CS461",
+          "name": "TEORIA POLITICA CLASSICA"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CP008",
+          "name": "INTRODUÇÃO À CIÊNCIA POLÍTICA"
+        }
+      ],
+      "dependents": [
+        {
+          "code": "CP016",
+          "name": "TEORIA POLÍTICA MODERNA"
+        }
+      ]
+    },
+    {
+      "name": "INSTITUIÇÕES POLÍTICAS I",
+      "code": "CP014",
+      "ementa": "O PROCESSO POLÍTICO BRASILEIRO NO PERÍODO REPUBLICANO. FORMAÇÃO DOS PARTIDOS, DA CIDADANIA E DOS DIREITOS, BEM COMO O FORTALECIMENTO DAS INSTITUIÇÕES POLÍTICAS.",
+      "hours": 60,
+      "semester": 3,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0009",
+          "name": "INSTITUIÇÕES POLÍTICAS I"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CP008",
+          "name": "INTRODUÇÃO À CIÊNCIA POLÍTICA"
+        }
+      ],
+      "dependents": [
+        {
+          "code": "CP017",
+          "name": "POLÍTICAS PÚBLICAS I"
+        },
+        {
+          "code": "CP019",
+          "name": "INSTITUIÇÕES POLÍTICAS II"
+        },
+        {
+          "code": "CP021",
+          "name": "POLÍTICA COMPARADA I"
+        }
+      ]
+    },
+    {
+      "name": "MICROECONOMIA 1",
+      "code": "EC213",
+      "ementa": "TEORIA DO CONSUMIDOR E A CURVA DE DEMANDA. TEORIA DA PRODUÇÃO. TEORIA DOS CUSTOS. OFERTA EM CONDIÇÕES DE CONCORRÊNCIA. FORMAÇÃO DE PREÇOS EM CONCORRÊNCIA PERFEITA.",
+      "hours": 60,
+      "semester": 3,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [],
+      "prerequisites": [
+        {
+          "code": "EC001",
+          "name": "ECONOMIA 1"
+        }
+      ],
+      "dependents": []
+    },
+    {
+      "name": "MÉTODOS QUANTITATIVOS II",
+      "code": "CP015",
+      "ementa": "LEITURA CIENTÍFICA QUE ENVOLVA MODELAGEM MATEMÁTICA E ANÁLISES DE DADOS SOFISTICADAS. USO DE DADOS SECUNDÁRIOS. COMPARAÇÕES, EXTRAPOLAÇÕES, RELAÇÕES DE CAUSALIDADES, ASSOCIAÇÃO. USO DE PLATAFORMAS ESPECIAIS COMO SPSS E STATA COMO FACILITADORES DAS FERRAMENTAS ESTATÍSTICAS NECESSÁRIAS A DIVERSAS APLICAÇÕES. MANUSEIO DE GRANDES MASSAS DE DADOS A PARTIR DE BASES INSTITUCIONAIS COMO: IBGE/CENSO, IBGE/PINAD, IPEADATA, DATASUS, INEP, TRE.",
+      "hours": 90,
+      "semester": 3,
+      "credits": 5,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0008",
+          "name": "MÉTODOS QUANTITATIVOS II"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CP011",
+          "name": "MÉTODOS QUANTITATIVOS I"
+        }
+      ],
+      "dependents": []
+    },
+    {
+      "name": "TEORIA POLÍTICA MODERNA",
+      "code": "CP016",
+      "ementa": "ESTUDO DAS TEORIAS QUE FUNDAM, NO PENSAMENTO POLÍTICO MODERNO, O SOCIALISMO, A LIBERAL-DEMOCRACIA, A SOCIAL-DEMOCRACIA E O NEOLIBERALISMO.",
+      "hours": 60,
+      "semester": 3,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0010",
+          "name": "TEORIA POLÍTICA MODERNA"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CP013",
+          "name": "TEORIA POLÍTICA CLÁSSICA"
+        }
+      ],
+      "dependents": [
+        {
+          "code": "CP018",
+          "name": "TEORIA POLÍTICA CONTEMPORÂNEA"
+        }
+      ]
+    },
+    {
+      "name": "ANTROPOLOGIA",
+      "code": "AM001",
+      "ementa": "O CAMPO DA ANTROPOLOGIA. CONCEITOS BÁSICOS, OBJETOS E MÉTODOS. RELAÇÕES COM OUTRAS CIÊNCIAS. CULTURA E SOCIEDADE: PRINCIPAIS ABORDAGENS. ANTROPOLOGIA NO BRASIL.",
+      "hours": 60,
+      "semester": 4,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CS013",
+          "name": "ANTROPOLOGIA"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "MACROECONOMIA 1",
+      "code": "EC231",
+      "ementa": "FUNÇÕES CONSUMO E INVESTIMENTO. MODELO SIMPLES DO MULTIPLICADOR DO INVESTIMENTO. MERCADO MONETÁRIO, MERCADO DE TRABALHO. MODELO KAYNESIANO DE 2 E 3 SETORES. NOÇÕES DE POLÍTICA FISCAL E MONETÁRIA.",
+      "hours": 60,
+      "semester": 4,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [],
+      "prerequisites": [
+        {
+          "code": "EC001",
+          "name": "ECONOMIA 1"
+        }
+      ],
+      "dependents": []
+    },
+    {
+      "name": "POLÍTICAS PÚBLICAS I",
+      "code": "CP017",
+      "ementa": "POLÍTICAS PÚBLICAS A PARTIR DOS CONCEITOS BÁSICOS QUE FORMAM ESSA ÁREA DE ESTUDO COM BASE NA EXPERIÊNCIA CONTEMPORÂNEA DO ESTADO DE BEM-ESTAR SOCIAL. PAPEL DAS POLÍTICAS PÚBLICAS EM RELAÇÃO AO PROCESSO DE FORMAÇÃO DA CIDADANIA DEMOCRÁTICA. PRINCIPAIS TENDÊNCIAS DE TRATAMENTO DAS POLÍTICAS PÚBLICAS QUANTO ÀS QUESTÕES DE DECISÃO, DO PAPEL DOS ATORES POLÍTICOS, DA IMPLEMENTAÇÃO E DA AVALIAÇÃO DAS POLÍTICAS PÚBLICAS. POLÍTICAS PÚBLICAS COM A PERSPECTIVA DE RESOLUÇÃO DE PROBLEMAS.",
+      "hours": 60,
+      "semester": 4,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0013",
+          "name": "POLÍTICAS PÚBLICAS I"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CP014",
+          "name": "INSTITUIÇÕES POLÍTICAS I"
+        }
+      ],
+      "dependents": [
+        {
+          "code": "CP027",
+          "name": "POLÍTICAS PÚBLICAS II"
+        }
+      ]
+    },
+    {
+      "name": "TEORIA POLÍTICA CONTEMPORÂNEA",
+      "code": "CP018",
+      "ementa": "ESTUDO DE ALGUMAS TEORIAS QUE FUNDAM O PENSAMENTO POLÍTICO CONTEMPORÂNEO.",
+      "hours": 60,
+      "semester": 4,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0014",
+          "name": "TEORIA POLÍTICA CONTEMPORÂNEA"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CP016",
+          "name": "TEORIA POLÍTICA MODERNA"
+        }
+      ],
+      "dependents": [
+        {
+          "code": "CP022",
+          "name": "TEORIA DAS RELAÇÕES INTERNACIONAIS I"
+        }
+      ]
+    },
+    {
+      "name": "INSTITUIÇÕES POLÍTICAS II",
+      "code": "CP019",
+      "ementa": "CARACTERIZAÇÃO DAS PRINCIPAIS INSTITUIÇÕES POLÍTICAS BRASILEIRAS: PRESIDENCIALISMO; FEDERALISMO; RELAÇÕES EXECUTIVO/LEGISLATIVO; SISTEMAS ELEITORAL E PARTIDÁRIO. ANÁLISE DO COMPORTAMENTO DE ATORES POLÍTICOS RELEVANTES (PRESIDENTES, GOVERNADORES, PARLAMENTARES E ELEITORES), A PARTIR DOS INCENTIVOS E CONSTRANGIMENTOS À AÇÃO DESSES ATORES, ESTABELECIDOS PELAS INSTITUIÇÕES POLÍTICAS NACIONAIS.",
+      "hours": 60,
+      "semester": 5,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0020",
+          "name": "INSTITUIÇÕES POLÍTICAS II"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CP014",
+          "name": "INSTITUIÇÕES POLÍTICAS I"
+        }
+      ],
+      "dependents": []
+    },
+    {
+      "name": "MÉTODOS QUALITATIVOS I",
+      "code": "CP020",
+      "ementa": "HISTÓRICO, TRADIÇÕES E FUNDAMENTOS TEÓRICOS DA INVESTIGAÇÃO QUALITATIVA; DIFERENTES TIPOS DE MÉTODOS QUALITATIVOS NA PESQUISA EM ADMINISTRAÇÃO DE EMPRESAS; PROCEDIMENTOS USUAIS DE COLETA E ANÁLISE DE DADOS; A REDAÇÃO DO ESTUDO QUALITATIVO.",
+      "hours": 60,
+      "semester": 5,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0012",
+          "name": "MÉTODOS QUALITATIVOS I"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "POLÍTICA COMPARADA I",
+      "code": "CP021",
+      "ementa": "INTRODUÇÃO AOS ESTUDOS COMPARADOS. ANÁLISE FUNDACIONAL. ANÁLISE TÉCNICA - PARA QUE SERVE A POLÍTICA COMPARADA. LEITURA DE ESTUDOS CONTEMPORÂNEOS. DIFERENTES FORMAS DE DESENVOLVER UM TRABALHO COMPARADO.",
+      "hours": 60,
+      "semester": 5,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0021",
+          "name": "POLÍTICA COMPARADA I"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CP014",
+          "name": "INSTITUIÇÕES POLÍTICAS I"
+        }
+      ],
+      "dependents": [
+        {
+          "code": "CP024",
+          "name": "POLÍTICA COMPARADA II"
+        }
+      ]
+    },
+    {
+      "name": "TEORIA DAS RELAÇÕES INTERNACIONAIS I",
+      "code": "CP022",
+      "ementa": "O SURGIMENTO DA DISCIPLINA DE RELAÇÕES INTERNACIONAIS, SUA DEFINIÇÃO, SUA NATUREZA E SEU ESCOPO. O QUE SÃO TEORIAS E SUA NATUREZA. A TEORIA TRADICIONAL DA BALANÇA DE PODERES. ABORDAGENS TRADICIONAIS DA TEORIA DAS RELAÇÕES INTERNACIONAIS: O REALISMO, O NEO-REALISMO E O REALISMO NEOCLÁSSICO. ABORDAGENS LIBERAIS E NEO-LIBERAIS DAS RELAÇÕES INTERNACIONAIS. O DEBATE ENTRE IDEALISTAS E REALISTAS E O DEBATE NEO-NEO. A TEORIA DA SOCIEDADE INTERNACIONAL. ABORDAGENS DA ECONOMIA POLÍTICA INTERNACIONAL.",
+      "hours": 60,
+      "semester": 5,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CCP-947",
+          "name": "TEORIA DAS RELAÇÕES INTERNACIONAIS I"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CP018",
+          "name": "TEORIA POLÍTICA CONTEMPORÂNEA"
+        }
+      ],
+      "dependents": []
+    },
+    {
+      "name": "DIREITO INTERNACIONAL PÚBLICO 1",
+      "code": "PE463",
+      "ementa": "",
+      "hours": 60,
+      "semester": 6,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [],
+      "prerequisites": [
+        {
+          "code": "PG514",
+          "name": "DIREITO CONSTITUCIONAL"
+        }
+      ],
+      "dependents": []
+    },
+    {
+      "name": "PARTIDOS POLÍTICOS E ELEIÇÕES",
+      "code": "CP023",
+      "ementa": "ORIGENS E FUNÇÕES DO PODER LEGISLATIVO. RECRUTAMENTO DOS PARLAMENTARES. RELAÇÕES ENTRE SISTEMA DE REPRESENTAÇÃO, PARTIDOS POLÍTICOS E BANCADAS PARLAMENTARES. SOCIEDADE E LEGISLATIVO. GRUPOS DE PRESSÃO E LOBBY. EVOLUÇÃO DO LEGISLATIVO NO BRASIL. PROCESSO LEGISLATIVO BRASILEIRO. O PODER LEGISLATIVO NA NOVA ORDEM CONSTITUCIONAL.",
+      "hours": 60,
+      "semester": 6,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0025",
+          "name": "PARTIDOS POLÍTICOS E ELEIÇÕES"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CP008",
+          "name": "INTRODUÇÃO À CIÊNCIA POLÍTICA"
+        }
+      ],
+      "dependents": []
+    },
+    {
+      "name": "POLÍTICA COMPARADA II",
+      "code": "CP024",
+      "ementa": "PRINCIPAIS TEORIAS QUE TRATARAM DAS RELAÇÕES ENTRE REGIMES POLÍTICOS E DESENVOLVIMENTO ECONÔMICO. LITERATURA DE POLÍTICA COMPARADA QUE TEM TOMADO COMO OBJETO OS NOVOS PAÍSES INDUSTRIALIZADOS.",
+      "hours": 60,
+      "semester": 6,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0029",
+          "name": "POLÍTICA COMPARADA II"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CP021",
+          "name": "POLÍTICA COMPARADA I"
+        }
+      ],
+      "dependents": []
+    },
+    {
+      "name": "TEORIA DAS RELAÇÕES INTERNACIONAIS II",
+      "code": "CP025",
+      "ementa": "TRADICIONALISMO E BEHAVIORISMO. ESTRUTURALISMO COM ABORDAGEM DAS RELAÇÕES INTERNACIONAIS. TEORIAS DA COOPERAÇÃO E INTEGRAÇÃO INTERNACIONAL: FUNCIONALISMO, NEO-FUNCIONALISMO E INTERDEPENDENTISMO.TEORIA CONSTRUTIVISTA.TEORIA CRITICA. ABORDAGEM FEMINISTA. ESCOLHA RACIONAL E TEORIA DOS JOGOS COMO TEORIA DAS RELAÇÕES INTERNACIONAIS. A TEORIA E OS ESTUDOS DE SEGURANÇA INTERNACIONAL. O ESTUDO DAS RELAÇÕES INTERNACIONAIS NO BRASIL.",
+      "hours": 60,
+      "semester": 6,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CCP-948",
+          "name": "TEORIA DAS RELAÇÕES INTERNACIONAIS II"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "COMPORTAMENTO POLÍTICO",
+      "code": "CP026",
+      "ementa": "DISCUTIR COMO A CIÊNCIA POLÍTICA VÊM ESTRUTURANDO O CONCEITO DE IDENTIDADE IDEOLÓGICA PARA EXPLICAR UM DOS ASPECTOS CENTRAIS DO COMPORTAMENTO ELEITORAL EM DEMOCRACIAS DE MASSA. A ABORDAGEM SERÁ TEÓRICA, COM ÊNFASE NA EVOLUÇÃO E REFINAMENTO DAS HIPÓTESES REFERENTE À INFLUÊNCIA DA IDEOLOGIA SOBRE O COMPORTAMENTO POLÍTICO EM SOCIEDADES PÓS-INDUSTRIAIS.",
+      "hours": 60,
+      "semester": 7,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0026",
+          "name": "COMPORTAMENTO POLÍTICO"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CP008",
+          "name": "INTRODUÇÃO À CIÊNCIA POLÍTICA"
+        }
+      ],
+      "dependents": []
+    },
+    {
+      "name": "POLÍTICAS PÚBLICAS II",
+      "code": "CP027",
+      "ementa": "INTRODUÇÃO À TEMÁTICA DAS POLÍTICAS PÚBLICAS E ÀS REDES DE PROTEÇÃO SOCIAL NO BRASIL NUMA PERSPECTIVA HISTÓRICO-SOCIAL. EXAME DA FORMAÇÃO DO ESTADO CONTEMPORÂNEO NO PAÍS E AS FORMAS DE CONSOLIDAÇÃO DA CIDADANIA. EXAME DA PERCEPÇÃO E DA GERAÇÃO DE CONDIÇÕES ASSOCIADAS À EMERGÊNCIA DE POLÍTICAS PARA AS ÁREAS DE SAÚDE, EDUCAÇÃO, INFRA-ESTRUTURA, HABITAÇÃO, SEGURANÇA, TRANSPORTES, CULTURA, MEIO AMBIENTE, ETC.",
+      "hours": 60,
+      "semester": 7,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0028",
+          "name": "POLÍTICAS PÚBLICAS II"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CP017",
+          "name": "POLÍTICAS PÚBLICAS I"
+        }
+      ],
+      "dependents": []
+    },
+    {
+      "name": "PROCESSOS DE INTEGRAÇÃO REGIONAL",
+      "code": "CP028",
+      "ementa": "A PROBLEMÁTICA DA INTEGRAÇÃO REGIONAL DO MERCADO COMUM DO SUL - MERCOSUL. INVESTIGAÇÃO DOS PRINCIPAIS CONCEITOS NORTEADORES DAS TEORIAS DA INTEGRAÇÃO REGIONAL, FERRAMENTA IMPRESCINDÍVEL PARA A INTERPRETAÇÃO DOS FENÔMENOS INTEGRACIONISTAS. ESTUDO DAS PRÁTICAS E INSTITUIÇÕES MERCOSULINAS SOB UMA TRÍPLICE PERSPECTIVA: O DINAMISMO INTERNO; A INFLUÊNCIA DA UNIÃO EUROPÉIA E A INSERÇÃO INTERNACIONAL.",
+      "hours": 60,
+      "semester": 7,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CCP-951",
+          "name": "PROCESSO DE INTEGRAÇÃO REGIONAL"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CP006",
+          "name": "EPISTEMOLOGIA DAS CIÊNCIAS SOCIAIS"
+        }
+      ],
+      "dependents": []
+    },
+    {
+      "name": "TEORIA DEMOCRÁTICA II",
+      "code": "CP029",
+      "ementa": "O ELITISMO DEMOCRÁTICO, O PARTICIPACIONISMO E O DELIBERACIONISMO.",
+      "hours": 60,
+      "semester": 7,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0019",
+          "name": "TEORIA DEMOCRÁTICA II"
+        }
+      ],
+      "prerequisites": [
+        {
+          "code": "CP012",
+          "name": "TEORIA DEMOCRÁTICA I"
+        }
+      ],
+      "dependents": []
+    },
+    {
+      "name": "SEMINÁRIO DE PESQUISA",
+      "code": "CP030",
+      "ementa": "PESQUISA CIENTÍFICA TENDO COMO OBJETIVO AUXILIAR NA PRODUÇÃO DO TRABALHO DE CONCLUSÃO DE CURSO.",
+      "hours": 60,
+      "semester": 8,
+      "credits": 4,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0016",
+          "name": "SEMINÁRIO DE PESQUISA"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "TRABALHO DE CONCLUSÃO DE CURSO - TCC",
+      "code": "CP031",
+      "ementa": "DESENVOLVIMENTO E CONFECÇÃO DA MONOGRAFIA.",
+      "hours": 120,
+      "semester": 8,
+      "credits": 8,
+      "isObligatory": true,
+      "equivalences": [
+        {
+          "code": "CPOL0015",
+          "name": "TRABALHO DE CONCLUSÃO DE CURSO"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "ANÁLISE DE DADOS AVANÇADOS",
+      "code": "CP037",
+      "ementa": "DISCUSSÃO DE NOVAS TECNOLOGIAS APLICADAS À CIÊNCIA POLÍTICA.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "ECONOMIA POLÍTICA INTERNACIONAL",
+      "code": "CP033",
+      "ementa": "INTRODUZIR CONCEITOS E INSTRUMENTOS DE ANÁLISE E DA PRÁTICA ECONÔMICA. PRINCIPAIS VARIÁVEIS MACROECONÔMICAS. CONCEITOS E AS REALIDADES RELATIVAS AOS PRINCIPAIS AGREGADOS ECONÔMICOS E MONETÁRIOS, AS TEORIAS E AS REALIDADES DO COMÉRCIO INTERNACIONAL, TEMAS FINANCEIROS E DE BALANÇO DE PAGAMENTOS. A ECONOMIA POLÍTICA DA DÉCADA 2000-2010.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "FUNDAMENTOS DA LÍNGUA BRASILEIRA DE SINAIS - LIBRAS",
+      "code": "PO494",
+      "ementa": "REFLEXÃO SOBRE OS ASPECTOS HISTÓRICOS DA INCLUSÃO DAS PESSOAS SURDAS NA SOCIEDADE EM GERAL E NA ESCOLA; A LIBRAS COMO LÍNGUA DE COMUNICAÇÃO SOCIAL EM CONTEXTO DE COMUNICAÇÃO ENTRE PESSOAS SURDAS E COMO SEGUNDA LÍNGUA. ESTRUTURA LINGÜÍSTICA E GRAMATICAL DA LIBRAS. ESPECIFICIDADES DA ESCRITA DO ALUNO SURDO, NA PRODUÇÃO DE TEXTO EM LÍNGUA PORTUGUESA. O INTÉRPRETE E A INTERPRETAÇÃO COMO FATOR DE INCLUSÃO E ACESSO EDUCACIONAL PARA OS ALUNOS SURDOS OU COM BAIXA AUDIÇÃO.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "HISTÓRIA DO PENSAMENTO POLÍTICO BRASILEIRO II",
+      "code": "CP038",
+      "ementa": "INTRODUÇÃO A TEMAS BÁSICOS DO PENSAMENTO POLÍTICO E SOCIAL BRASILEIRO. FAMILIARIZAÇÃO COM AS OBRAS DE SEUS MAIS IMPORTANTES AUTORES DO SÉCULO XX. DIVISÃO DO CURSO EM TRÊS PARTES: 1) INTRODUÇÃO AO PENSAMENTO POLÍTICO E SOCIAL BRASILEIRO; 2) HISTÓRIA E SOCIEDADE NA \"GERAÇÃO DE 1930\"; 3) FLORESTAN FERNANDES E A ÚLTIMA GRANDE \"INTERPRETAÇÃO DO BRASIL\".",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "HISTÓRIA DO PENSAMENTO POLÍTICO LATINO-AMERICANO",
+      "code": "CP039",
+      "ementa": "OS PRINCIPAIS TEMAS A SEREM TRATADOS NA DISCIPLINA SÃO: A INFLUÊNCIA DOS FEDERALISTAS AMERICANOS E DA REVOLUÇÃO FRANCESA NA AMÉRICA LATINA. BOLÍVAR: IDÉIAS E LEGADO. CONSTITUCIONALISMO E LIBERALISMO NO FINAL DO SÉCULO XIX NA AMÉRICA LATINA: ALBERDI, SARMIENTO, NABUCO E RUY BARBOSA. AS IDÉIAS FEDERALISTAS E UNITARISTAS NO SÉCULO XIX NA REGIÃO. O DEBATE SOBRE A REPRESENTAÇÃO POLÍTICA E AS ORIGENS DAS INSTITUIÇÕES REPRESENTATIVAS NA AMÉRICA LATINA. O POSITIVISMO E A TRADIÇÃO ILIBERAL NO PENSAMENTO LATINOAMERICANO. O DEBATE SOBRE A REPRESENTAÇÃO POLÍTICA NO BRASIL: ASSIS BRASIL E O SISTEMA ELEITORAL PROPORCIONAL. A CRÍTICA AO PRESIDENCIALISMO NO PENSAMENTO LATINOAMERICANO. O DEBATE BRASILEIRO: DE HAMBLOCH A AFONSO ARINOS. O PENSAMENTO AUTORITÁRIO NA AMÉRICA LATINA NA DÉCADA DE 30 E 40: OLIVEIRA VIANA E LUGONES. A RECEPÇÃO DO MARXISMO NOS PAÍSES LATINO AMERICANOS. HAYA DE LA TORRRE E AS ORIGENS DO SOCIALISMO NA AL. O MARXISMO NO BRASIL: DE CAIO PRADO A JACOB GORENDER. A TEORIA DA DEPENDÊNCIA. O LIBERALISMO NA AMERICA LATINA: OS PRECURSORES NO CONE SUL..",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "INSTITUIÇÕES POLÍTICAS III",
+      "code": "CP040",
+      "ementa": "INSTITUIÇÕES DE CONTROLE HORIZONTAL; FORMAS DE CONTROLE INTERNAS E EXTERNAS; RELAÇÃO DO PODER JUDICIÁRIO COM OS DEMAIS PODERES; MINISTÉRIO PÚBLICO; JUDICIALIZAÇÃO DA POLÍTICA.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "INSTITUIÇÕES POLÍTICAS IV",
+      "code": "CP041",
+      "ementa": "TEORIAS CONTEMPORÂNEAS SOBRE INSTITUIÇÕES POLÍTICAS, SEUS DETERMINANTES E EFEITOS. PROCESSOS DE INSTITUCIONALIZAÇÃO. DESENHO E CONSTRUÇÃO INSTITUCIONAL. O NEOINSTITUCIONALISMO COMO TEORIA E COMO MÉTODO.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "INTRODUÇÃO A LIBRAS",
+      "code": "LE716",
+      "ementa": "REFLEXÃO SOBRE OS ASPECTOS HISTÓRICOS DA INCLUSÃO DAS PESSOAS SURDAS NA SOCIEDADE EM GERAL E NA ESCOLA; A LIBRAS COMO LÍNGUA DE COMUNICAÇÃO SOCIAL EM CONTEXTO DE COMUNICAÇÃO ENTRE PESSOAS SURDAS E COMO SEGUNDA LÍNGUA. ESTRUTURA LINGUÍSTICA E GRAMATICAL DE LIBRAS. ESPECIFICIDADES DA ESCRITA DO ALUNO SURDO. NA PRODUÇÃO DE TEXTO EM LÍNGUA PORTUGUESA. O INTÉRPRETE E A INTERPRETAÇÃO COMO FATOR DE INCLUSÃO E ACESSO EDUCACIONAL PARA OS ALUNOS SURDOS OU COM BAIXA AUDIÇÃO.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "MÉTODOS QUALITATIVOS II",
+      "code": "CP042",
+      "ementa": "DISCUSSÃO DE TEMAS E PROBLEMAS METODOLÓGICOS.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "MÉTODOS QUANTITATIVOS III",
+      "code": "CP043",
+      "ementa": "DISCUSSÃO DE TEMAS E PROBLEMAS METODOLÓGICOS.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "ORGANIZAÇÕES INTERNACIONAIS",
+      "code": "CP034",
+      "ementa": "ORGANIZAÇÕES INTERNACIONAIS: IMPORTANTE OBJETO DE ESTUDO DAS RELAÇÕES INTERNACIONAIS. TRÊS ASPECTOS REFERENTES ÀS ORGANIZAÇÕES INTERNACIONAIS: A NATUREZA E SIGNIFICADO DESSAS ORGANIZAÇÕES PARA O SISTEMA INTERNACIONAL; OS PROCESSOS DE MUDANÇA DESSAS ENTIDADES DIANTE DAS TRANSFORMAÇÕES OCORRIDAS NA ORDEM INTERNACIONAL; A ANÁLISE DOS ASPECTOS OPERACIONAIS E DOS PROCESSOS DECISÓRIOS EM RELAÇÃO ÀS QUESTÕES ENFRENTADAS NA ATUALIDADE.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "PENSAMENTO POLÍTICO BRASILEIRO",
+      "code": "CP044",
+      "ementa": "PRETENDE INTRODUZIR O PENSAMENTO POLÍTICO BRASILEIRO EM SUAS ORIGENS E AS TRANSFORMAÇÕES QUE SOFREU AO LONGO DO SÉCULO XX. ATUALIZA AS QUESTÕES E REITERAÇÕES, BUSCANDO LINHAGENS, RUPTURAS E INFLUÊNCIAS MÚTUAS. A PRESENÇA DA CONTRIBUIÇÃO TEÓRICA INTERNACIONAL NO BRASIL",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "POLÍTICA COMPARADA III",
+      "code": "CP045",
+      "ementa": "DISCUSSÃO DE TEMAS E/OU AUTORES CONTEMPORÂNEOS.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "POLÍTICA EXTERNA I",
+      "code": "CP035",
+      "ementa": "PRINCIPAIS TEORIAS REFERENTES À POLÍTICA EXTERNA E DIPLOMACIA. RELAÇÃO ENTRE TEORIAS DAS R. I. E A POLÍTICA EXTERNA. TEORIAS RECENTES DE POLÍTICA EXTERNA, TENDO COMO ENFOQUE O BRASIL, A AMÉRICA LATINA E DO SUL. PENSAMENTO E PROCESSO DE DESENVOLVIMENTO DA POLÍTICA EXTERNA BRASILEIRA NAS SUAS VÁRIAS FACETAS CONTEMPORÂNEAS.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "POLÍTICA EXTERNA II",
+      "code": "CP036",
+      "ementa": "O CURSO DE POLÍTICA EXTERNA II DISCUTIRÁ OS PRINCIPAIS ARTIGOS RECENTES RELATIVOS A TEORIA E PRATICA POLÍTICA EXTERNA. SERÁ DADA ÊNFASE À TRÊS ASPECTOS: TEORIAS DE ANALISE DA POLÍTICA EXTERNA; CONTEXTO DOMESTICO DA POLÍTICA EXTERNA; E ESTUDOS DE CASOS RECENTES E DA NOVA ORDEM INTERNACIONAL VOLTANDO-SE ÀS RELAÇÕES ENTRE O BRASIL E SEUS VIZINHOS E PRINCIPALMENTE AO PAPEL DO BRASIL NA ORDEM INTERNACIONAL CONTEMPORÂNEA",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "POLÍTICA INTERNACIONAL COMPARADA",
+      "code": "CP046",
+      "ementa": "ANÁLISE DOS SISTEMAS POLÍTICO, ECONÔMICO E SOCIAL, SUAS INTER-RELAÇÕES E DINÂMICAS ASSOCIADAS. ARGUMENTOS FUNDADOS NA ECONOMIA, NA SOCIOLOGIA E NA CIÊNCIA POLÍTICA SOBRE A ECONOMIA POLÍTICA DO CAPITALISMO.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "RELAÇÕES INTERNACIONAIS NO PENSAMENTO POLÍTICO",
+      "code": "CP032",
+      "ementa": "ANÁLISE DAS BASES TEÓRICAS DESENVOLVIDAS NO SEIO DAS RELAÇÕES INTERNACIONAIS, ATRAVÉS DO PENSAMENTO POLÍTICO QUE EXPLORA ESTA VERTENTE AO LONGO DA HISTÓRIA. DE TUCÍDIDES, PASSANDO POR SANTO AGOSTINHO, TOMÁS DE AQUINO, BODIN, GROTIUS, ABBÉ DE SAINT - PIERE, CHEGANDO EM RICARDO, MARX E SHUMPETER.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "SEGURANÇA E RELAÇÕES INTERNACIONAIS",
+      "code": "CP047",
+      "ementa": "PRINCIPAIS TEORIAS REFERENTES À SEGURANÇA INTERNACIONAL E EXPLORAÇÃO DO PAPEL DO BRASIL NESTA ÁREA.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "SEMINÁRIO TEMÁTICO EM CIÊNCIA POLÍTICA I",
+      "code": "CP048",
+      "ementa": "DISCUSSÃO DE TEMAS E/OU AUTORES CONTEMPORÂNEOS DE RELEVÂNCIA PARA A ÁREA DE CIÊNCIA POLÍTICA.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "SEMINÁRIO TEMÁTICO EM CIÊNCIA POLÍTICA II",
+      "code": "CP049",
+      "ementa": "DISCUSSÃO DE TEMAS E/OU AUTORES CONTEMPORÂNEOS DE RELEVÂNCIA PARA A ÁREA DE CIÊNCIA POLÍTICA.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "SEMINÁRIO TEMÁTICO EM RELAÇÕES INTERNACIONAIS I",
+      "code": "CP050",
+      "ementa": "DISCUSSÃO DE TEMAS E/OU AUTORES CONTEMPORÂNEOS DE RELEVÂNCIA PARA A ÁREA DE RELAÇÕES INTERNACIONAIS.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "SEMINÁRIO TEMÁTICO EM RELAÇÕES INTERNACIONAIS II",
+      "code": "CP051",
+      "ementa": "DISCUSSÃO DE TEMAS E/OU AUTORES CONTEMPORÂNEOS DE RELEVÂNCIA PARA A ÁREA DE RELAÇÕES INTERNACIONAIS.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "TEORIA DAS RELAÇÕES INTERNACIONAIS III",
+      "code": "CP052",
+      "ementa": "DISCUSSÃO DE TEMAS E/OU AUTORES CONTEMPORÂNEOS:",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "TEORIA DEMOCRÁTICA III",
+      "code": "CP053",
+      "ementa": "A DEMOCRACIA: FEMINISMO, MULTICULTURALISMO E TEORIA DO RECONHECIMENTO.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "TEORIA DEMOCRÁTICA IV",
+      "code": "CP054",
+      "ementa": "DISCUSSÃO DE TEMAS E/OU AUTORES DEMOCRÁTICOS ATUAIS.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "TÓPICOS ESPECIAIS EM CIÊNCIA POLÍTICA I",
+      "code": "CP057",
+      "ementa": "DISCUSSÃO DE TEMAS E/OU AUTORES CONTEMPORÂNEOS DE RELEVÂNCIA PARA A ÁREA DE CIÊNCIA POLÍTICA.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "TÓPICOS ESPECIAIS EM CIÊNCIA POLÍTICA II",
+      "code": "CP058",
+      "ementa": "DISCUSSÃO DE TEMAS E/OU AUTORES CONTEMPORÂNEOS DE RELEVÂNCIA PARA A ÁREA DE CIÊNCIA POLÍTICA.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "TÓPICOS ESPECIAIS EM RELAÇÕES INTERNACIONAIS I",
+      "code": "CP055",
+      "ementa": "DISCUSSÃO DE TEMAS E/OU AUTORES CONTEMPORÂNEOS DE RELEVÂNCIA PARA A ÁREA DE RELAÇÕES INTERNACIONAIS.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [
+        {
+          "code": "CCP-949",
+          "name": "TÓPICOS ESPECIAIS DE RELAÇÕES INTERNACIONAIS I"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    },
+    {
+      "name": "TÓPICOS ESPECIAIS EM RELAÇÕES INTERNACIONAIS II",
+      "code": "CP056",
+      "ementa": "DISCUSSÃO DE TEMAS E/OU AUTORES CONTEMPORÂNEOS DE RELEVÂNCIA PARA A ÁREA DE RELAÇÕES INTERNACIONAIS.",
+      "hours": 60,
+      "semester": 0,
+      "credits": 4,
+      "isObligatory": false,
+      "equivalences": [
+        {
+          "code": "CCP-950",
+          "name": "TÓPICOS ESPECIAIS DE RELAÇÕES INTERNACIONAIS II"
+        }
+      ],
+      "prerequisites": [],
+      "dependents": []
+    }
+  ]
+}
